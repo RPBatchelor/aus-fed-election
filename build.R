@@ -1,3 +1,6 @@
+
+
+
 source("setup.R")
 
 
@@ -8,6 +11,9 @@ source("prep/collect_polls.R")
 
 # The divisions and their margins for the 2019 election
 source("prep/download-pendulum-2019.R")
+
+# The divisions and their margins for the 2022 election
+source("prep/download-pendulum-2022.R")
 
 source("prep/define-colours.R")
 

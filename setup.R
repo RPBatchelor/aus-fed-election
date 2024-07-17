@@ -1,4 +1,6 @@
-# library(frs)
+
+
+library(frs)
 library(tidyverse)
 library(scales)
 library(rstan)
@@ -11,7 +13,7 @@ library(devtools)
 library(knitr)
 library(snakecase)
 library(testthat)
-# library(ozfedelect)
+library(ozfedelect)
 library(RColorBrewer)
 library(clipr)
 
@@ -21,8 +23,8 @@ source("R/run_all_r_scripts.R")
 run_all_r_scripts("R", cleanup = FALSE)
 
 
-myfont <- "Roboto"
-main_font <- "Roboto"
+myfont <- "Aptos"
+main_font <- "Aptos" # Roboto
 heading_font <- "Sarala"
 
 
@@ -33,4 +35,5 @@ theme_set(theme_light(base_family = main_font) +
                   plot.title = element_text(family = heading_font),
                   plot.subtitle = element_text(family = heading_font, colour = "grey50"))
 ) 
+
 update_geom_defaults("text", list(family = main_font))
