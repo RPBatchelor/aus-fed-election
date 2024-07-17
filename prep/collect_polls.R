@@ -20,10 +20,12 @@ tab1 <- html_table(tabs[[1]], fill = TRUE)
 
 names(tab1) <- tab_names
 
-tab1 <- tab1[-1, ] %>%
-  as_tibble() %>%
-  select(-starts_with("x")) %>%
+tab1 <- tab1 |>
+  select(1:8) |> 
+  slice(-1) |> 
+  as_tibble() |> 
   mutate(firm = "Newspoll")
+
 
 tab2 <- html_table(tabs[[5]], fill = TRUE) 
 
@@ -46,7 +48,8 @@ ozpolls_2010 <- tab1 %>%
   parse_dates() %>%
   mutate(start_date = if_else(original_dates == "2007 Election", last_election_date, start_date),
          end_date = if_else(original_dates == "2007 Election", last_election_date, end_date),
-         firm = if_else(original_dates == "2007 Election", "Election result", firm))
+         firm = if_else(original_dates == "2007 Election", "Election result", firm)) |> 
+  filter(!is.na(start_date))
 
 stopifnot(sum(is.na(ozpolls_2010$start_date)) == 0 )
 
@@ -173,6 +176,17 @@ ozpolls_2019 <- tab %>%
          firm = str_squish(firm))
 
 stopifnot(sum(is.na(ozpolls_2019$start_date)) == 0 )
+
+#-------------------2022----------------------------
+url <- "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Australian_federal_election"
+
+
+
+
+
+
+
+
 
 #----------------Combine-----------------
 

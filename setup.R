@@ -1,4 +1,4 @@
-library(frs)
+# library(frs)
 library(tidyverse)
 library(scales)
 library(rstan)
@@ -11,10 +11,13 @@ library(devtools)
 library(knitr)
 library(snakecase)
 library(testthat)
-library(ozfedelect)
+# library(ozfedelect)
 library(RColorBrewer)
 library(clipr)
 
+
+
+source("R/run_all_r_scripts.R")
 run_all_r_scripts("R", cleanup = FALSE)
 
 
