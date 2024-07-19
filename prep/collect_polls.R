@@ -251,6 +251,72 @@ ozpolls_2022 <- bind_rows(tab1, tab2) |>
 stopifnot(sum(is.na(ozpolls_2019$start_date)) == 0 )
 
 
+#-----------2025 election ----------------------
+
+url <- "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Australian_federal_election"
+
+last_election_date = as.Date("2022-05-21")
+election_year = 2025
+
+tab_names <- c("date", "firm", "method", "sample_size",
+               paste0(c("Lib/Nat", "ALP", "Grn", "ONP", "UAP", "Oth", "Und"), "!First preference"),
+               "ALP!Two-party-preferred", "Lib/Nat!Two-party-preferred")
+
+
+webpage <- url |> 
+  read_html(encoding = "UTF-8") 
+
+tabs <- webpage |> 
+  html_nodes("table") 
+
+# number below depends on the webpage...
+tab1 <- html_table(tabs[[1]], fill = TRUE) 
+
+names(tab1) <- tab_names
+
+tab1 <- tab1 |> 
+  slice(-1) |> 
+  as_tibble()
+
+
+tab2 <- html_table(tabs[[2]], fill = TRUE) 
+
+names(tab2) <- tab_names
+
+tab2 <- tab2 |> 
+  slice(-1) |> 
+  as_tibble()
+
+
+
+tab3 <- html_table(tabs[[3]], fill = TRUE) 
+
+names(tab3) <- tab_names
+
+tab3 <- tab3 |> 
+  slice(-1) |> 
+  as_tibble()
+
+
+
+ozpolls_2025 <- bind_rows(tab1, tab2, tab3) |> 
+  mutate(wiki_row = paste0("r", 1:n())) |>
+  pivot_longer(cols = 5:13, names_to = "variable", values_to = "intended_vote") |> 
+  separate(variable, sep = "!", into = c("party", "preference_type")) |> 
+  mutate(intended_vote = suppressWarnings(as.numeric(str_replace(intended_vote, "%", "")))) |> 
+  mutate(sample_size = suppressWarnings(as.numeric(str_replace(sample_size, ",", "")))) |> 
+  mutate(election_year = election_year) |> 
+  filter(!is.na(intended_vote)) |> 
+  parse_dates() |> 
+  mutate(firm = gsub("\\[.+\\]", "", firm),
+         firm = gsub("\\(.+\\)", "", firm),
+         firm = str_squish(firm)) |> 
+  filter(!is.na(start_date))
+
+
+stopifnot(sum(is.na(ozpolls_2019$start_date)) == 0 )
+
+
 
 #----------------Combine-----------------
 
@@ -283,3 +349,4 @@ save(ozpolls_2010, file = "pkg/data/ozpolls_2010.rda", compress = "xz")
 
 # This text version is basically so Git can observe changes
 write_csv(ozpolls, file = "comparison-data/ozpolls.csv")
+
