@@ -242,13 +242,14 @@ ozpolls_2022 <- bind_rows(tab1, tab2) |>
   mutate(election_year = election_year) |> 
   filter(!is.na(intended_vote)) |> 
   parse_dates() |> 
+  mutate(firm = if_else(firm == "Election", "Election result", firm)) |> 
   mutate(firm = gsub("\\[.+\\]", "", firm),
          firm = gsub("\\(.+\\)", "", firm),
          firm = str_squish(firm)) |> 
   filter(!is.na(start_date))
 
 
-stopifnot(sum(is.na(ozpolls_2019$start_date)) == 0 )
+stopifnot(sum(is.na(ozpolls_2022$start_date)) == 0 )
 
 
 #-----------2025 election ----------------------
@@ -258,7 +259,7 @@ url <- "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Australian_fe
 last_election_date = as.Date("2022-05-21")
 election_year = 2025
 
-tab_names <- c("date", "firm", "method", "sample_size",
+tab_names <- c("dates", "firm", "method", "sample_size",
                paste0(c("Lib/Nat", "ALP", "Grn", "ONP", "UAP", "Oth", "Und"), "!First preference"),
                "ALP!Two-party-preferred", "Lib/Nat!Two-party-preferred")
 
@@ -308,13 +309,14 @@ ozpolls_2025 <- bind_rows(tab1, tab2, tab3) |>
   mutate(election_year = election_year) |> 
   filter(!is.na(intended_vote)) |> 
   parse_dates() |> 
+  mutate(firm = if_else(firm == "Election", "Election result", firm)) |> 
   mutate(firm = gsub("\\[.+\\]", "", firm),
          firm = gsub("\\(.+\\)", "", firm),
          firm = str_squish(firm)) |> 
   filter(!is.na(start_date))
 
 
-stopifnot(sum(is.na(ozpolls_2019$start_date)) == 0 )
+stopifnot(sum(is.na(ozpolls_2025$start_date)) == 0 )
 
 
 
@@ -324,7 +326,8 @@ ozpolls <- bind_rows(ozpolls_2010,
                      ozpolls_2013,
                      ozpolls_2016,
                      ozpolls_2019,
-                     ozpolls_2022) |> 
+                     ozpolls_2022,
+                     ozpolls_2025) |> 
   select(-sample_size, -margin_of_error, -method) |> 
   mutate(firm = str_squish(str_replace(firm, "\\(.+\\)", "")),
          firm = if_else(firm == "Morgan", "Roy Morgan", firm),

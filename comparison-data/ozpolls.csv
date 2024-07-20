@@ -6967,6 +6967,14 @@ start_date,end_date,original_dates,firm,party,preference_type,election_year,mid_
 2022-05-21,2022-05-21,21 May 2022,Election,ONP,First preference,2022,2022-05-21,5
 2022-05-21,2022-05-21,21 May 2022,Election,Oth,First preference,2022,2022-05-21,10.4
 2022-05-21,2022-05-21,21 May 2022,Election,UAP,First preference,2022,2022-05-21,4.1
+2022-05-21,2022-05-21,21 May 2022,Election,ALP,First preference,2025,2022-05-21,32.6
+2022-05-21,2022-05-21,21 May 2022,Election,ALP,Two-party-preferred,2025,2022-05-21,52.1
+2022-05-21,2022-05-21,21 May 2022,Election,Grn,First preference,2025,2022-05-21,12.2
+2022-05-21,2022-05-21,21 May 2022,Election,Lib/Nat,First preference,2025,2022-05-21,35.7
+2022-05-21,2022-05-21,21 May 2022,Election,Lib/Nat,Two-party-preferred,2025,2022-05-21,47.9
+2022-05-21,2022-05-21,21 May 2022,Election,ONP,First preference,2025,2022-05-21,5
+2022-05-21,2022-05-21,21 May 2022,Election,Oth,First preference,2025,2022-05-21,10.4
+2022-05-21,2022-05-21,21 May 2022,Election,UAP,First preference,2025,2022-05-21,4.1
 2022-05-21,2022-05-25,21–25 May 2022,Dynata,ALP,First preference,2022,2022-05-23,41
 2022-05-21,2022-05-25,21–25 May 2022,Dynata,Grn,First preference,2022,2022-05-23,11
 2022-05-21,2022-05-25,21–25 May 2022,Dynata,Lib/Nat,First preference,2022,2022-05-23,33
@@ -6975,3 +6983,1185 @@ start_date,end_date,original_dates,firm,party,preference_type,election_year,mid_
 2022-05-23,2022-06-05,23 May–5 Jun 2022,ANU,ALP,First preference,2022,2022-05-29,35.4
 2022-05-23,2022-06-05,23 May–5 Jun 2022,ANU,Grn,First preference,2022,2022-05-29,19.8
 2022-05-23,2022-06-05,23 May–5 Jun 2022,ANU,Lib/Nat,First preference,2022,2022-05-29,31.9
+2022-06-13,2022-06-19,13–19 June 2022,Roy Morgan,ALP,First preference,2025,2022-06-16,36
+2022-06-13,2022-06-19,13–19 June 2022,Roy Morgan,ALP,Two-party-preferred,2025,2022-06-16,53
+2022-06-13,2022-06-19,13–19 June 2022,Roy Morgan,Grn,First preference,2025,2022-06-16,11
+2022-06-13,2022-06-19,13–19 June 2022,Roy Morgan,Lib/Nat,First preference,2025,2022-06-16,37
+2022-06-13,2022-06-19,13–19 June 2022,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2022-06-16,47
+2022-06-13,2022-06-19,13–19 June 2022,Roy Morgan,ONP,First preference,2025,2022-06-16,4
+2022-06-13,2022-06-19,13–19 June 2022,Roy Morgan,Oth,First preference,2025,2022-06-16,11.5
+2022-06-13,2022-06-19,13–19 June 2022,Roy Morgan,UAP,First preference,2025,2022-06-16,0.5
+2022-06-14,2022-06-17,14–17 June 2022,Dynata,ALP,First preference,2025,2022-06-15,34
+2022-06-14,2022-06-17,14–17 June 2022,Dynata,Grn,First preference,2025,2022-06-15,12
+2022-06-14,2022-06-17,14–17 June 2022,Dynata,Lib/Nat,First preference,2025,2022-06-15,31
+2022-06-14,2022-06-17,14–17 June 2022,Dynata,Lib/Nat,Two-party-preferred,2025,2022-06-15,47.8
+2022-06-14,2022-06-17,14–17 June 2022,Dynata,ONP,First preference,2025,2022-06-15,4
+2022-06-14,2022-06-17,14–17 June 2022,Dynata,Oth,First preference,2025,2022-06-15,7
+2022-06-14,2022-06-17,14–17 June 2022,Dynata,UAP,First preference,2025,2022-06-15,4
+2022-06-14,2022-06-17,14–17 June 2022,Dynata,Und,First preference,2025,2022-06-15,9
+2022-07-27,2022-07-30,27–30 July 2022,Newspoll-YouGov,ALP,First preference,2025,2022-07-28,37
+2022-07-27,2022-07-30,27–30 July 2022,Newspoll-YouGov,ALP,Two-party-preferred,2025,2022-07-28,56
+2022-07-27,2022-07-30,27–30 July 2022,Newspoll-YouGov,Grn,First preference,2025,2022-07-28,12
+2022-07-27,2022-07-30,27–30 July 2022,Newspoll-YouGov,Lib/Nat,First preference,2025,2022-07-28,33
+2022-07-27,2022-07-30,27–30 July 2022,Newspoll-YouGov,Lib/Nat,Two-party-preferred,2025,2022-07-28,44
+2022-07-27,2022-07-30,27–30 July 2022,Newspoll-YouGov,ONP,First preference,2025,2022-07-28,6
+2022-07-27,2022-07-30,27–30 July 2022,Newspoll-YouGov,Oth,First preference,2025,2022-07-28,10
+2022-07-27,2022-07-30,27–30 July 2022,Newspoll-YouGov,UAP,First preference,2025,2022-07-28,2
+2022-08-17,2022-08-21,17–21 August 2022,Resolve Strategic,ALP,First preference,2025,2022-08-19,42
+2022-08-17,2022-08-21,17–21 August 2022,Resolve Strategic,ALP,Two-party-preferred,2025,2022-08-19,61.3
+2022-08-17,2022-08-21,17–21 August 2022,Resolve Strategic,Grn,First preference,2025,2022-08-19,12
+2022-08-17,2022-08-21,17–21 August 2022,Resolve Strategic,Lib/Nat,First preference,2025,2022-08-19,28
+2022-08-17,2022-08-21,17–21 August 2022,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2022-08-19,38.7
+2022-08-17,2022-08-21,17–21 August 2022,Resolve Strategic,ONP,First preference,2025,2022-08-19,5
+2022-08-17,2022-08-21,17–21 August 2022,Resolve Strategic,Oth,First preference,2025,2022-08-19,11
+2022-08-17,2022-08-21,17–21 August 2022,Resolve Strategic,UAP,First preference,2025,2022-08-19,2
+2022-08-17,2022-09-03,31 August – 3 September 2022,Newspoll-YouGov,ALP,First preference,2025,2022-08-25,37
+2022-08-17,2022-09-03,31 August – 3 September 2022,Newspoll-YouGov,ALP,Two-party-preferred,2025,2022-08-25,57
+2022-08-17,2022-09-03,31 August – 3 September 2022,Newspoll-YouGov,Grn,First preference,2025,2022-08-25,13.5
+2022-08-17,2022-09-03,31 August – 3 September 2022,Newspoll-YouGov,Lib/Nat,First preference,2025,2022-08-25,31
+2022-08-17,2022-09-03,31 August – 3 September 2022,Newspoll-YouGov,Lib/Nat,Two-party-preferred,2025,2022-08-25,43
+2022-08-17,2022-09-03,31 August – 3 September 2022,Newspoll-YouGov,ONP,First preference,2025,2022-08-25,7
+2022-08-17,2022-09-03,31 August – 3 September 2022,Newspoll-YouGov,Oth,First preference,2025,2022-08-25,10
+2022-08-17,2022-09-03,31 August – 3 September 2022,Newspoll-YouGov,UAP,First preference,2025,2022-08-25,2
+2022-09-14,2022-09-18,14–18 September 2022,Resolve Strategic,ALP,First preference,2025,2022-09-16,39
+2022-09-14,2022-09-18,14–18 September 2022,Resolve Strategic,ALP,Two-party-preferred,2025,2022-09-16,57
+2022-09-14,2022-09-18,14–18 September 2022,Resolve Strategic,Grn,First preference,2025,2022-09-16,10
+2022-09-14,2022-09-18,14–18 September 2022,Resolve Strategic,Lib/Nat,First preference,2025,2022-09-16,32
+2022-09-14,2022-09-18,14–18 September 2022,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2022-09-16,43
+2022-09-14,2022-09-18,14–18 September 2022,Resolve Strategic,ONP,First preference,2025,2022-09-16,6
+2022-09-14,2022-09-18,14–18 September 2022,Resolve Strategic,Oth,First preference,2025,2022-09-16,11
+2022-09-14,2022-09-18,14–18 September 2022,Resolve Strategic,UAP,First preference,2025,2022-09-16,2
+2022-10-05,2022-10-09,5–9 October 2022,Resolve Strategic,ALP,First preference,2025,2022-10-07,39
+2022-10-05,2022-10-09,5–9 October 2022,Resolve Strategic,ALP,Two-party-preferred,2025,2022-10-07,58.3
+2022-10-05,2022-10-09,5–9 October 2022,Resolve Strategic,Grn,First preference,2025,2022-10-07,12
+2022-10-05,2022-10-09,5–9 October 2022,Resolve Strategic,Lib/Nat,First preference,2025,2022-10-07,30
+2022-10-05,2022-10-09,5–9 October 2022,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2022-10-07,41.7
+2022-10-05,2022-10-09,5–9 October 2022,Resolve Strategic,ONP,First preference,2025,2022-10-07,5
+2022-10-05,2022-10-09,5–9 October 2022,Resolve Strategic,Oth,First preference,2025,2022-10-07,11
+2022-10-05,2022-10-09,5–9 October 2022,Resolve Strategic,UAP,First preference,2025,2022-10-07,3
+2022-10-26,2022-10-30,26–30 October 2022,Resolve Strategic,ALP,First preference,2025,2022-10-28,39
+2022-10-26,2022-10-30,26–30 October 2022,Resolve Strategic,Grn,First preference,2025,2022-10-28,13
+2022-10-26,2022-10-30,26–30 October 2022,Resolve Strategic,Lib/Nat,First preference,2025,2022-10-28,32
+2022-10-26,2022-10-30,26–30 October 2022,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2022-10-28,42.6
+2022-10-26,2022-10-30,26–30 October 2022,Resolve Strategic,ONP,First preference,2025,2022-10-28,4
+2022-10-26,2022-10-30,26–30 October 2022,Resolve Strategic,Oth,First preference,2025,2022-10-28,11
+2022-10-26,2022-10-30,26–30 October 2022,Resolve Strategic,UAP,First preference,2025,2022-10-28,1
+2022-10-27,2022-10-30,27–30 October 2022,Newspoll-YouGov,ALP,First preference,2025,2022-10-28,38
+2022-10-27,2022-10-30,27–30 October 2022,Newspoll-YouGov,ALP,Two-party-preferred,2025,2022-10-28,55
+2022-10-27,2022-10-30,27–30 October 2022,Newspoll-YouGov,Grn,First preference,2025,2022-10-28,11
+2022-10-27,2022-10-30,27–30 October 2022,Newspoll-YouGov,Lib/Nat,First preference,2025,2022-10-28,35
+2022-10-27,2022-10-30,27–30 October 2022,Newspoll-YouGov,Lib/Nat,Two-party-preferred,2025,2022-10-28,45
+2022-10-27,2022-10-30,27–30 October 2022,Newspoll-YouGov,ONP,First preference,2025,2022-10-28,6
+2022-10-27,2022-10-30,27–30 October 2022,Newspoll-YouGov,Oth,First preference,2025,2022-10-28,9
+2022-10-27,2022-10-30,27–30 October 2022,Newspoll-YouGov,UAP,First preference,2025,2022-10-28,1
+2022-11-16,2022-12-03,30 November – 3 December 2022,Newspoll,ALP,First preference,2025,2022-11-24,39
+2022-11-16,2022-12-03,30 November – 3 December 2022,Newspoll,ALP,Two-party-preferred,2025,2022-11-24,55
+2022-11-16,2022-12-03,30 November – 3 December 2022,Newspoll,Grn,First preference,2025,2022-11-24,11
+2022-11-16,2022-12-03,30 November – 3 December 2022,Newspoll,Lib/Nat,First preference,2025,2022-11-24,35
+2022-11-16,2022-12-03,30 November – 3 December 2022,Newspoll,Lib/Nat,Two-party-preferred,2025,2022-11-24,45
+2022-11-16,2022-12-03,30 November – 3 December 2022,Newspoll,ONP,First preference,2025,2022-11-24,6
+2022-11-16,2022-12-03,30 November – 3 December 2022,Newspoll,Oth,First preference,2025,2022-11-24,9
+2022-11-16,2022-12-03,30 November – 3 December 2022,Newspoll,UAP,First preference,2025,2022-11-24,1
+2022-11-17,2022-12-04,30 November – 4 December 2022,Resolve Strategic,ALP,First preference,2025,2022-11-25,42
+2022-11-17,2022-12-04,30 November – 4 December 2022,Resolve Strategic,ALP,Two-party-preferred,2025,2022-11-25,60
+2022-11-17,2022-12-04,30 November – 4 December 2022,Resolve Strategic,Grn,First preference,2025,2022-11-25,11
+2022-11-17,2022-12-04,30 November – 4 December 2022,Resolve Strategic,Lib/Nat,First preference,2025,2022-11-25,30
+2022-11-17,2022-12-04,30 November – 4 December 2022,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2022-11-25,40
+2022-11-17,2022-12-04,30 November – 4 December 2022,Resolve Strategic,ONP,First preference,2025,2022-11-25,4
+2022-11-17,2022-12-04,30 November – 4 December 2022,Resolve Strategic,Oth,First preference,2025,2022-11-25,8
+2022-11-17,2022-12-04,30 November – 4 December 2022,Resolve Strategic,UAP,First preference,2025,2022-11-25,2
+2022-11-23,2022-11-27,23–27 November 2022,Essential,ALP,First preference,2025,2022-11-25,33
+2022-11-23,2022-11-27,23–27 November 2022,Essential,ALP,Two-party-preferred,2025,2022-11-25,51
+2022-11-23,2022-11-27,23–27 November 2022,Essential,Grn,First preference,2025,2022-11-25,13
+2022-11-23,2022-11-27,23–27 November 2022,Essential,Lib/Nat,First preference,2025,2022-11-25,31
+2022-11-23,2022-11-27,23–27 November 2022,Essential,Lib/Nat,Two-party-preferred,2025,2022-11-25,43
+2022-11-23,2022-11-27,23–27 November 2022,Essential,Oth,First preference,2025,2022-11-25,17
+2022-11-23,2022-11-27,23–27 November 2022,Essential,Und,First preference,2025,2022-11-25,6
+2022-12-07,2022-12-11,7–11 December 2022,Essential,ALP,First preference,2025,2022-12-09,35
+2022-12-07,2022-12-11,7–11 December 2022,Essential,ALP,Two-party-preferred,2025,2022-12-09,51
+2022-12-07,2022-12-11,7–11 December 2022,Essential,Grn,First preference,2025,2022-12-09,13
+2022-12-07,2022-12-11,7–11 December 2022,Essential,Lib/Nat,First preference,2025,2022-12-09,30
+2022-12-07,2022-12-11,7–11 December 2022,Essential,Lib/Nat,Two-party-preferred,2025,2022-12-09,44
+2022-12-07,2022-12-11,7–11 December 2022,Essential,ONP,First preference,2025,2022-12-09,6
+2022-12-07,2022-12-11,7–11 December 2022,Essential,Oth,First preference,2025,2022-12-09,8
+2022-12-07,2022-12-11,7–11 December 2022,Essential,UAP,First preference,2025,2022-12-09,3
+2022-12-07,2022-12-11,7–11 December 2022,Essential,Und,First preference,2025,2022-12-09,5
+2022-12-16,2022-12-18,16–18 December 2022,Freshwater Strategy,ALP,First preference,2025,2022-12-17,37
+2022-12-16,2022-12-18,16–18 December 2022,Freshwater Strategy,ALP,Two-party-preferred,2025,2022-12-17,54
+2022-12-16,2022-12-18,16–18 December 2022,Freshwater Strategy,Grn,First preference,2025,2022-12-17,12
+2022-12-16,2022-12-18,16–18 December 2022,Freshwater Strategy,Lib/Nat,First preference,2025,2022-12-17,37
+2022-12-16,2022-12-18,16–18 December 2022,Freshwater Strategy,Lib/Nat,Two-party-preferred,2025,2022-12-17,46
+2022-12-16,2022-12-18,16–18 December 2022,Freshwater Strategy,ONP,First preference,2025,2022-12-17,4
+2022-12-16,2022-12-18,16–18 December 2022,Freshwater Strategy,Oth,First preference,2025,2022-12-17,9
+2022-12-16,2022-12-18,16–18 December 2022,Freshwater Strategy,UAP,First preference,2025,2022-12-17,1
+2023-01-17,2023-01-22,17–22 January 2023,Resolve Strategic,ALP,First preference,2025,2023-01-19,42
+2023-01-17,2023-01-22,17–22 January 2023,Resolve Strategic,ALP,Two-party-preferred,2025,2023-01-19,60
+2023-01-17,2023-01-22,17–22 January 2023,Resolve Strategic,Grn,First preference,2025,2023-01-19,11
+2023-01-17,2023-01-22,17–22 January 2023,Resolve Strategic,Lib/Nat,First preference,2025,2023-01-19,29
+2023-01-17,2023-01-22,17–22 January 2023,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2023-01-19,40
+2023-01-17,2023-01-22,17–22 January 2023,Resolve Strategic,ONP,First preference,2025,2023-01-19,6
+2023-01-17,2023-01-22,17–22 January 2023,Resolve Strategic,Oth,First preference,2025,2023-01-19,11
+2023-01-17,2023-01-22,17–22 January 2023,Resolve Strategic,UAP,First preference,2025,2023-01-19,2
+2023-01-18,2023-01-22,18–22 January 2023,Essential,ALP,First preference,2025,2023-01-20,34
+2023-01-18,2023-01-22,18–22 January 2023,Essential,ALP,Two-party-preferred,2025,2023-01-20,53
+2023-01-18,2023-01-22,18–22 January 2023,Essential,Grn,First preference,2025,2023-01-20,14
+2023-01-18,2023-01-22,18–22 January 2023,Essential,Lib/Nat,First preference,2025,2023-01-20,31
+2023-01-18,2023-01-22,18–22 January 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-01-20,42
+2023-01-18,2023-01-22,18–22 January 2023,Essential,ONP,First preference,2025,2023-01-20,8
+2023-01-18,2023-01-22,18–22 January 2023,Essential,Oth,First preference,2025,2023-01-20,7
+2023-01-18,2023-01-22,18–22 January 2023,Essential,UAP,First preference,2025,2023-01-20,1
+2023-01-18,2023-01-22,18–22 January 2023,Essential,Und,First preference,2025,2023-01-20,5
+2023-01-23,2023-01-29,23–29 January 2023,Roy Morgan,ALP,First preference,2025,2023-01-26,37.5
+2023-01-23,2023-01-29,23–29 January 2023,Roy Morgan,ALP,Two-party-preferred,2025,2023-01-26,57
+2023-01-23,2023-01-29,23–29 January 2023,Roy Morgan,Grn,First preference,2025,2023-01-26,11.5
+2023-01-23,2023-01-29,23–29 January 2023,Roy Morgan,Lib/Nat,First preference,2025,2023-01-26,33.5
+2023-01-23,2023-01-29,23–29 January 2023,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2023-01-26,43
+2023-01-23,2023-01-29,23–29 January 2023,Roy Morgan,Oth,First preference,2025,2023-01-26,17.5
+2023-02-01,2023-02-04,1–4 February 2023,Newspoll,ALP,First preference,2025,2023-02-02,38
+2023-02-01,2023-02-04,1–4 February 2023,Newspoll,ALP,Two-party-preferred,2025,2023-02-02,55
+2023-02-01,2023-02-04,1–4 February 2023,Newspoll,Grn,First preference,2025,2023-02-02,11
+2023-02-01,2023-02-04,1–4 February 2023,Newspoll,Lib/Nat,First preference,2025,2023-02-02,34
+2023-02-01,2023-02-04,1–4 February 2023,Newspoll,Lib/Nat,Two-party-preferred,2025,2023-02-02,45
+2023-02-01,2023-02-04,1–4 February 2023,Newspoll,ONP,First preference,2025,2023-02-02,6
+2023-02-01,2023-02-04,1–4 February 2023,Newspoll,Oth,First preference,2025,2023-02-02,10
+2023-02-01,2023-02-04,1–4 February 2023,Newspoll,UAP,First preference,2025,2023-02-02,1
+2023-02-01,2023-02-06,1–6 February 2023,Essential,ALP,First preference,2025,2023-02-03,33
+2023-02-01,2023-02-06,1–6 February 2023,Essential,ALP,Two-party-preferred,2025,2023-02-03,55
+2023-02-01,2023-02-06,1–6 February 2023,Essential,Grn,First preference,2025,2023-02-03,17
+2023-02-01,2023-02-06,1–6 February 2023,Essential,Lib/Nat,First preference,2025,2023-02-03,30
+2023-02-01,2023-02-06,1–6 February 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-02-03,40
+2023-02-01,2023-02-06,1–6 February 2023,Essential,ONP,First preference,2025,2023-02-03,6
+2023-02-01,2023-02-06,1–6 February 2023,Essential,Oth,First preference,2025,2023-02-03,15
+2023-02-01,2023-02-06,1–6 February 2023,Essential,UAP,First preference,2025,2023-02-03,1
+2023-02-01,2023-02-06,1–6 February 2023,Essential,Und,First preference,2025,2023-02-03,5
+2023-02-13,2023-02-19,13–19 February 2023,Roy Morgan,ALP,First preference,2025,2023-02-16,37
+2023-02-13,2023-02-19,13–19 February 2023,Roy Morgan,ALP,Two-party-preferred,2025,2023-02-16,58.5
+2023-02-13,2023-02-19,13–19 February 2023,Roy Morgan,Grn,First preference,2025,2023-02-16,13
+2023-02-13,2023-02-19,13–19 February 2023,Roy Morgan,Lib/Nat,First preference,2025,2023-02-16,33
+2023-02-13,2023-02-19,13–19 February 2023,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2023-02-16,41.5
+2023-02-13,2023-02-19,13–19 February 2023,Roy Morgan,Oth,First preference,2025,2023-02-16,17
+2023-02-15,2023-02-19,15–19 February 2023,Essential,ALP,First preference,2025,2023-02-17,33
+2023-02-15,2023-02-19,15–19 February 2023,Essential,ALP,Two-party-preferred,2025,2023-02-17,51
+2023-02-15,2023-02-19,15–19 February 2023,Essential,Grn,First preference,2025,2023-02-17,14
+2023-02-15,2023-02-19,15–19 February 2023,Essential,Lib/Nat,First preference,2025,2023-02-17,30
+2023-02-15,2023-02-19,15–19 February 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-02-17,42
+2023-02-15,2023-02-19,15–19 February 2023,Essential,ONP,First preference,2025,2023-02-17,6
+2023-02-15,2023-02-19,15–19 February 2023,Essential,Oth,First preference,2025,2023-02-17,8
+2023-02-15,2023-02-19,15–19 February 2023,Essential,UAP,First preference,2025,2023-02-17,3
+2023-02-15,2023-02-19,15–19 February 2023,Essential,Und,First preference,2025,2023-02-17,8
+2023-02-15,2023-02-19,15–19 February 2023,Resolve Strategic,ALP,First preference,2025,2023-02-17,40
+2023-02-15,2023-02-19,15–19 February 2023,Resolve Strategic,ALP,Two-party-preferred,2025,2023-02-17,57.9
+2023-02-15,2023-02-19,15–19 February 2023,Resolve Strategic,Grn,First preference,2025,2023-02-17,10
+2023-02-15,2023-02-19,15–19 February 2023,Resolve Strategic,Lib/Nat,First preference,2025,2023-02-17,31
+2023-02-15,2023-02-19,15–19 February 2023,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2023-02-17,42.1
+2023-02-15,2023-02-19,15–19 February 2023,Resolve Strategic,ONP,First preference,2025,2023-02-17,5
+2023-02-15,2023-02-19,15–19 February 2023,Resolve Strategic,Oth,First preference,2025,2023-02-17,11
+2023-02-15,2023-02-19,15–19 February 2023,Resolve Strategic,UAP,First preference,2025,2023-02-17,1
+2023-02-16,2023-03-05,27 February – 5 March 2023,Roy Morgan,ALP,First preference,2025,2023-02-24,38
+2023-02-16,2023-03-05,27 February – 5 March 2023,Roy Morgan,ALP,Two-party-preferred,2025,2023-02-24,54.5
+2023-02-16,2023-03-05,27 February – 5 March 2023,Roy Morgan,Grn,First preference,2025,2023-02-24,11.5
+2023-02-16,2023-03-05,27 February – 5 March 2023,Roy Morgan,Lib/Nat,First preference,2025,2023-02-24,33.5
+2023-02-16,2023-03-05,27 February – 5 March 2023,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2023-02-24,45.5
+2023-02-16,2023-03-05,27 February – 5 March 2023,Roy Morgan,Oth,First preference,2025,2023-02-24,17
+2023-02-20,2023-02-26,20–26 February 2023,Roy Morgan,ALP,First preference,2025,2023-02-23,37
+2023-02-20,2023-02-26,20–26 February 2023,Roy Morgan,ALP,Two-party-preferred,2025,2023-02-23,56.5
+2023-02-20,2023-02-26,20–26 February 2023,Roy Morgan,Grn,First preference,2025,2023-02-23,13.5
+2023-02-20,2023-02-26,20–26 February 2023,Roy Morgan,Lib/Nat,First preference,2025,2023-02-23,34.5
+2023-02-20,2023-02-26,20–26 February 2023,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2023-02-23,43.5
+2023-02-20,2023-02-26,20–26 February 2023,Roy Morgan,Oth,First preference,2025,2023-02-23,15
+2023-03-01,2023-03-04,1–4 March 2023,Newspoll,ALP,First preference,2025,2023-03-02,37
+2023-03-01,2023-03-04,1–4 March 2023,Newspoll,ALP,Two-party-preferred,2025,2023-03-02,54
+2023-03-01,2023-03-04,1–4 March 2023,Newspoll,Grn,First preference,2025,2023-03-02,10
+2023-03-01,2023-03-04,1–4 March 2023,Newspoll,Lib/Nat,First preference,2025,2023-03-02,35
+2023-03-01,2023-03-04,1–4 March 2023,Newspoll,Lib/Nat,Two-party-preferred,2025,2023-03-02,46
+2023-03-01,2023-03-04,1–4 March 2023,Newspoll,ONP,First preference,2025,2023-03-02,7
+2023-03-01,2023-03-04,1–4 March 2023,Newspoll,Oth,First preference,2025,2023-03-02,11
+2023-03-01,2023-03-05,1–5 March 2023,Essential,ALP,First preference,2025,2023-03-03,32
+2023-03-01,2023-03-05,1–5 March 2023,Essential,ALP,Two-party-preferred,2025,2023-03-03,49
+2023-03-01,2023-03-05,1–5 March 2023,Essential,Grn,First preference,2025,2023-03-03,12
+2023-03-01,2023-03-05,1–5 March 2023,Essential,Lib/Nat,First preference,2025,2023-03-03,32
+2023-03-01,2023-03-05,1–5 March 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-03-03,44
+2023-03-01,2023-03-05,1–5 March 2023,Essential,ONP,First preference,2025,2023-03-03,7
+2023-03-01,2023-03-05,1–5 March 2023,Essential,Oth,First preference,2025,2023-03-03,10
+2023-03-01,2023-03-05,1–5 March 2023,Essential,UAP,First preference,2025,2023-03-03,2
+2023-03-01,2023-03-05,1–5 March 2023,Essential,Und,First preference,2025,2023-03-03,7
+2023-03-12,2023-03-16,12–16 March 2023,Resolve Strategic,ALP,First preference,2025,2023-03-14,39
+2023-03-12,2023-03-16,12–16 March 2023,Resolve Strategic,ALP,Two-party-preferred,2025,2023-03-14,60
+2023-03-12,2023-03-16,12–16 March 2023,Resolve Strategic,Grn,First preference,2025,2023-03-14,13
+2023-03-12,2023-03-16,12–16 March 2023,Resolve Strategic,Lib/Nat,First preference,2025,2023-03-14,30
+2023-03-12,2023-03-16,12–16 March 2023,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2023-03-14,40
+2023-03-12,2023-03-16,12–16 March 2023,Resolve Strategic,ONP,First preference,2025,2023-03-14,5
+2023-03-12,2023-03-16,12–16 March 2023,Resolve Strategic,Oth,First preference,2025,2023-03-14,11
+2023-03-12,2023-03-16,12–16 March 2023,Resolve Strategic,UAP,First preference,2025,2023-03-14,1
+2023-03-15,2023-03-20,15–20 March 2023,Essential,ALP,First preference,2025,2023-03-17,34
+2023-03-15,2023-03-20,15–20 March 2023,Essential,ALP,Two-party-preferred,2025,2023-03-17,52
+2023-03-15,2023-03-20,15–20 March 2023,Essential,Grn,First preference,2025,2023-03-17,14
+2023-03-15,2023-03-20,15–20 March 2023,Essential,Lib/Nat,First preference,2025,2023-03-17,31
+2023-03-15,2023-03-20,15–20 March 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-03-17,43
+2023-03-15,2023-03-20,15–20 March 2023,Essential,ONP,First preference,2025,2023-03-17,5
+2023-03-15,2023-03-20,15–20 March 2023,Essential,Oth,First preference,2025,2023-03-17,9
+2023-03-15,2023-03-20,15–20 March 2023,Essential,UAP,First preference,2025,2023-03-17,2
+2023-03-15,2023-03-20,15–20 March 2023,Essential,Und,First preference,2025,2023-03-17,5
+2023-03-15,2023-04-01,29 March – 1 April 2023,Newspoll,ALP,First preference,2025,2023-03-23,38
+2023-03-15,2023-04-01,29 March – 1 April 2023,Newspoll,ALP,Two-party-preferred,2025,2023-03-23,55
+2023-03-15,2023-04-01,29 March – 1 April 2023,Newspoll,Grn,First preference,2025,2023-03-23,10
+2023-03-15,2023-04-01,29 March – 1 April 2023,Newspoll,Lib/Nat,First preference,2025,2023-03-23,33
+2023-03-15,2023-04-01,29 March – 1 April 2023,Newspoll,Lib/Nat,Two-party-preferred,2025,2023-03-23,45
+2023-03-15,2023-04-01,29 March – 1 April 2023,Newspoll,ONP,First preference,2025,2023-03-23,8
+2023-03-15,2023-04-01,29 March – 1 April 2023,Newspoll,Oth,First preference,2025,2023-03-23,11
+2023-03-16,2023-04-02,29 March – 2 April 2023,Essential,ALP,First preference,2025,2023-03-24,33
+2023-03-16,2023-04-02,29 March – 2 April 2023,Essential,ALP,Two-party-preferred,2025,2023-03-24,53
+2023-03-16,2023-04-02,29 March – 2 April 2023,Essential,Grn,First preference,2025,2023-03-24,14
+2023-03-16,2023-04-02,29 March – 2 April 2023,Essential,Lib/Nat,First preference,2025,2023-03-24,30
+2023-03-16,2023-04-02,29 March – 2 April 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-03-24,42
+2023-03-16,2023-04-02,29 March – 2 April 2023,Essential,ONP,First preference,2025,2023-03-24,6
+2023-03-16,2023-04-02,29 March – 2 April 2023,Essential,Oth,First preference,2025,2023-03-24,10
+2023-03-16,2023-04-02,29 March – 2 April 2023,Essential,UAP,First preference,2025,2023-03-24,2
+2023-03-16,2023-04-02,29 March – 2 April 2023,Essential,Und,First preference,2025,2023-03-24,5
+2023-04-12,2023-04-16,12–16 April 2023,Essential,ALP,First preference,2025,2023-04-14,34
+2023-04-12,2023-04-16,12–16 April 2023,Essential,ALP,Two-party-preferred,2025,2023-04-14,52
+2023-04-12,2023-04-16,12–16 April 2023,Essential,Grn,First preference,2025,2023-04-14,14
+2023-04-12,2023-04-16,12–16 April 2023,Essential,Lib/Nat,First preference,2025,2023-04-14,31
+2023-04-12,2023-04-16,12–16 April 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-04-14,43
+2023-04-12,2023-04-16,12–16 April 2023,Essential,ONP,First preference,2025,2023-04-14,6
+2023-04-12,2023-04-16,12–16 April 2023,Essential,Oth,First preference,2025,2023-04-14,9
+2023-04-12,2023-04-16,12–16 April 2023,Essential,UAP,First preference,2025,2023-04-14,3
+2023-04-12,2023-04-16,12–16 April 2023,Essential,Und,First preference,2025,2023-04-14,4
+2023-04-12,2023-04-16,12–16 April 2023,Resolve Strategic,ALP,First preference,2025,2023-04-14,42
+2023-04-12,2023-04-16,12–16 April 2023,Resolve Strategic,ALP,Two-party-preferred,2025,2023-04-14,61.5
+2023-04-12,2023-04-16,12–16 April 2023,Resolve Strategic,Grn,First preference,2025,2023-04-14,12
+2023-04-12,2023-04-16,12–16 April 2023,Resolve Strategic,Lib/Nat,First preference,2025,2023-04-14,28
+2023-04-12,2023-04-16,12–16 April 2023,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2023-04-14,38.5
+2023-04-12,2023-04-16,12–16 April 2023,Resolve Strategic,ONP,First preference,2025,2023-04-14,6
+2023-04-12,2023-04-16,12–16 April 2023,Resolve Strategic,Oth,First preference,2025,2023-04-14,11
+2023-04-12,2023-04-16,12–16 April 2023,Resolve Strategic,UAP,First preference,2025,2023-04-14,1
+2023-04-19,2023-04-22,19–22 April 2023,Newspoll,ALP,First preference,2025,2023-04-20,38
+2023-04-19,2023-04-22,19–22 April 2023,Newspoll,ALP,Two-party-preferred,2025,2023-04-20,56
+2023-04-19,2023-04-22,19–22 April 2023,Newspoll,Grn,First preference,2025,2023-04-20,11
+2023-04-19,2023-04-22,19–22 April 2023,Newspoll,Lib/Nat,First preference,2025,2023-04-20,33
+2023-04-19,2023-04-22,19–22 April 2023,Newspoll,Lib/Nat,Two-party-preferred,2025,2023-04-20,44
+2023-04-19,2023-04-22,19–22 April 2023,Newspoll,ONP,First preference,2025,2023-04-20,7
+2023-04-19,2023-04-22,19–22 April 2023,Newspoll,Oth,First preference,2025,2023-04-20,11
+2023-04-26,2023-04-30,26–30 April 2023,Essential,ALP,First preference,2025,2023-04-28,33
+2023-04-26,2023-04-30,26–30 April 2023,Essential,ALP,Two-party-preferred,2025,2023-04-28,53
+2023-04-26,2023-04-30,26–30 April 2023,Essential,Grn,First preference,2025,2023-04-28,14
+2023-04-26,2023-04-30,26–30 April 2023,Essential,Lib/Nat,First preference,2025,2023-04-28,32
+2023-04-26,2023-04-30,26–30 April 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-04-28,41
+2023-04-26,2023-04-30,26–30 April 2023,Essential,ONP,First preference,2025,2023-04-28,5
+2023-04-26,2023-04-30,26–30 April 2023,Essential,Oth,First preference,2025,2023-04-28,8
+2023-04-26,2023-04-30,26–30 April 2023,Essential,UAP,First preference,2025,2023-04-28,2
+2023-04-26,2023-04-30,26–30 April 2023,Essential,Und,First preference,2025,2023-04-28,5
+2023-05-10,2023-05-13,10–13 May 2023,Resolve Strategic,ALP,First preference,2025,2023-05-11,42
+2023-05-10,2023-05-13,10–13 May 2023,Resolve Strategic,ALP,Two-party-preferred,2025,2023-05-11,61
+2023-05-10,2023-05-13,10–13 May 2023,Resolve Strategic,Grn,First preference,2025,2023-05-11,12
+2023-05-10,2023-05-13,10–13 May 2023,Resolve Strategic,Lib/Nat,First preference,2025,2023-05-11,30
+2023-05-10,2023-05-13,10–13 May 2023,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2023-05-11,39
+2023-05-10,2023-05-13,10–13 May 2023,Resolve Strategic,ONP,First preference,2025,2023-05-11,5
+2023-05-10,2023-05-13,10–13 May 2023,Resolve Strategic,Oth,First preference,2025,2023-05-11,8
+2023-05-10,2023-05-13,10–13 May 2023,Resolve Strategic,UAP,First preference,2025,2023-05-11,2
+2023-05-10,2023-05-13,10–13 May 2023,Resolve Strategic,Und,First preference,2025,2023-05-11,2
+2023-05-10,2023-05-14,10–14 May 2023,Essential,ALP,First preference,2025,2023-05-12,35
+2023-05-10,2023-05-14,10–14 May 2023,Essential,ALP,Two-party-preferred,2025,2023-05-12,53
+2023-05-10,2023-05-14,10–14 May 2023,Essential,Grn,First preference,2025,2023-05-12,14
+2023-05-10,2023-05-14,10–14 May 2023,Essential,Lib/Nat,First preference,2025,2023-05-12,31
+2023-05-10,2023-05-14,10–14 May 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-05-12,42
+2023-05-10,2023-05-14,10–14 May 2023,Essential,ONP,First preference,2025,2023-05-12,5
+2023-05-10,2023-05-14,10–14 May 2023,Essential,Oth,First preference,2025,2023-05-12,8
+2023-05-10,2023-05-14,10–14 May 2023,Essential,UAP,First preference,2025,2023-05-12,1
+2023-05-10,2023-05-14,10–14 May 2023,Essential,Und,First preference,2025,2023-05-12,5
+2023-05-11,2023-05-13,11–13 May 2023,Newspoll,ALP,First preference,2025,2023-05-12,38
+2023-05-11,2023-05-13,11–13 May 2023,Newspoll,ALP,Two-party-preferred,2025,2023-05-12,55
+2023-05-11,2023-05-13,11–13 May 2023,Newspoll,Grn,First preference,2025,2023-05-12,11
+2023-05-11,2023-05-13,11–13 May 2023,Newspoll,Lib/Nat,First preference,2025,2023-05-12,34
+2023-05-11,2023-05-13,11–13 May 2023,Newspoll,Lib/Nat,Two-party-preferred,2025,2023-05-12,45
+2023-05-11,2023-05-13,11–13 May 2023,Newspoll,ONP,First preference,2025,2023-05-12,7
+2023-05-11,2023-05-13,11–13 May 2023,Newspoll,Oth,First preference,2025,2023-05-12,10
+2023-05-15,2023-05-17,15–17 May 2023,Freshwater Strategy,ALP,First preference,2025,2023-05-16,34
+2023-05-15,2023-05-17,15–17 May 2023,Freshwater Strategy,ALP,Two-party-preferred,2025,2023-05-16,52
+2023-05-15,2023-05-17,15–17 May 2023,Freshwater Strategy,Grn,First preference,2025,2023-05-16,12
+2023-05-15,2023-05-17,15–17 May 2023,Freshwater Strategy,Lib/Nat,First preference,2025,2023-05-16,37
+2023-05-15,2023-05-17,15–17 May 2023,Freshwater Strategy,Lib/Nat,Two-party-preferred,2025,2023-05-16,48
+2023-05-15,2023-05-17,15–17 May 2023,Freshwater Strategy,Oth,First preference,2025,2023-05-16,17
+2023-05-17,2023-06-03,31 May – 3 June 2023,Newspoll,ALP,First preference,2025,2023-05-25,38
+2023-05-17,2023-06-03,31 May – 3 June 2023,Newspoll,ALP,Two-party-preferred,2025,2023-05-25,55
+2023-05-17,2023-06-03,31 May – 3 June 2023,Newspoll,Grn,First preference,2025,2023-05-25,12
+2023-05-17,2023-06-03,31 May – 3 June 2023,Newspoll,Lib/Nat,First preference,2025,2023-05-25,34
+2023-05-17,2023-06-03,31 May – 3 June 2023,Newspoll,Lib/Nat,Two-party-preferred,2025,2023-05-25,45
+2023-05-17,2023-06-03,31 May – 3 June 2023,Newspoll,ONP,First preference,2025,2023-05-25,6
+2023-05-17,2023-06-03,31 May – 3 June 2023,Newspoll,Oth,First preference,2025,2023-05-25,10
+2023-05-24,2023-05-28,24–28 May 2023,Essential,ALP,First preference,2025,2023-05-26,34
+2023-05-24,2023-05-28,24–28 May 2023,Essential,ALP,Two-party-preferred,2025,2023-05-26,52
+2023-05-24,2023-05-28,24–28 May 2023,Essential,Grn,First preference,2025,2023-05-26,15
+2023-05-24,2023-05-28,24–28 May 2023,Essential,Lib/Nat,First preference,2025,2023-05-26,31
+2023-05-24,2023-05-28,24–28 May 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-05-26,43
+2023-05-24,2023-05-28,24–28 May 2023,Essential,ONP,First preference,2025,2023-05-26,6
+2023-05-24,2023-05-28,24–28 May 2023,Essential,Oth,First preference,2025,2023-05-26,7
+2023-05-24,2023-05-28,24–28 May 2023,Essential,UAP,First preference,2025,2023-05-26,2
+2023-05-24,2023-05-28,24–28 May 2023,Essential,Und,First preference,2025,2023-05-26,5
+2023-06-06,2023-06-11,6–11 June 2023,Resolve Strategic,ALP,First preference,2025,2023-06-08,40
+2023-06-06,2023-06-11,6–11 June 2023,Resolve Strategic,ALP,Two-party-preferred,2025,2023-06-08,60
+2023-06-06,2023-06-11,6–11 June 2023,Resolve Strategic,Grn,First preference,2025,2023-06-08,12
+2023-06-06,2023-06-11,6–11 June 2023,Resolve Strategic,Lib/Nat,First preference,2025,2023-06-08,30
+2023-06-06,2023-06-11,6–11 June 2023,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2023-06-08,40
+2023-06-06,2023-06-11,6–11 June 2023,Resolve Strategic,ONP,First preference,2025,2023-06-08,6
+2023-06-06,2023-06-11,6–11 June 2023,Resolve Strategic,Oth,First preference,2025,2023-06-08,10
+2023-06-06,2023-06-11,6–11 June 2023,Resolve Strategic,UAP,First preference,2025,2023-06-08,2
+2023-06-07,2023-06-11,7–11 June 2023,Essential,ALP,First preference,2025,2023-06-09,32
+2023-06-07,2023-06-11,7–11 June 2023,Essential,ALP,Two-party-preferred,2025,2023-06-09,52
+2023-06-07,2023-06-11,7–11 June 2023,Essential,Grn,First preference,2025,2023-06-09,16
+2023-06-07,2023-06-11,7–11 June 2023,Essential,Lib/Nat,First preference,2025,2023-06-09,32
+2023-06-07,2023-06-11,7–11 June 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-06-09,42
+2023-06-07,2023-06-11,7–11 June 2023,Essential,ONP,First preference,2025,2023-06-09,5
+2023-06-07,2023-06-11,7–11 June 2023,Essential,Oth,First preference,2025,2023-06-09,9
+2023-06-07,2023-06-11,7–11 June 2023,Essential,UAP,First preference,2025,2023-06-09,1
+2023-06-07,2023-06-11,7–11 June 2023,Essential,Und,First preference,2025,2023-06-09,5
+2023-06-16,2023-06-24,16–24 June 2023,Newspoll,ALP,First preference,2025,2023-06-20,38
+2023-06-16,2023-06-24,16–24 June 2023,Newspoll,ALP,Two-party-preferred,2025,2023-06-20,54
+2023-06-16,2023-06-24,16–24 June 2023,Newspoll,Grn,First preference,2025,2023-06-20,11
+2023-06-16,2023-06-24,16–24 June 2023,Newspoll,Lib/Nat,First preference,2025,2023-06-20,35
+2023-06-16,2023-06-24,16–24 June 2023,Newspoll,Lib/Nat,Two-party-preferred,2025,2023-06-20,46
+2023-06-16,2023-06-24,16–24 June 2023,Newspoll,ONP,First preference,2025,2023-06-20,6
+2023-06-16,2023-06-24,16–24 June 2023,Newspoll,Oth,First preference,2025,2023-06-20,10
+2023-06-21,2023-06-25,21–25 June 2023,Essential,ALP,First preference,2025,2023-06-23,32
+2023-06-21,2023-06-25,21–25 June 2023,Essential,ALP,Two-party-preferred,2025,2023-06-23,52
+2023-06-21,2023-06-25,21–25 June 2023,Essential,Grn,First preference,2025,2023-06-23,14
+2023-06-21,2023-06-25,21–25 June 2023,Essential,Lib/Nat,First preference,2025,2023-06-23,30
+2023-06-21,2023-06-25,21–25 June 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-06-23,42
+2023-06-21,2023-06-25,21–25 June 2023,Essential,ONP,First preference,2025,2023-06-23,7
+2023-06-21,2023-06-25,21–25 June 2023,Essential,Oth,First preference,2025,2023-06-23,11
+2023-06-21,2023-06-25,21–25 June 2023,Essential,UAP,First preference,2025,2023-06-23,2
+2023-06-21,2023-06-25,21–25 June 2023,Essential,Und,First preference,2025,2023-06-23,6
+2023-07-05,2023-07-09,5–9 July 2023,Essential,ALP,First preference,2025,2023-07-07,32
+2023-07-05,2023-07-09,5–9 July 2023,Essential,ALP,Two-party-preferred,2025,2023-07-07,51
+2023-07-05,2023-07-09,5–9 July 2023,Essential,Grn,First preference,2025,2023-07-07,14
+2023-07-05,2023-07-09,5–9 July 2023,Essential,Lib/Nat,First preference,2025,2023-07-07,32
+2023-07-05,2023-07-09,5–9 July 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-07-07,44
+2023-07-05,2023-07-09,5–9 July 2023,Essential,ONP,First preference,2025,2023-07-07,8
+2023-07-05,2023-07-09,5–9 July 2023,Essential,Oth,First preference,2025,2023-07-07,8
+2023-07-05,2023-07-09,5–9 July 2023,Essential,UAP,First preference,2025,2023-07-07,1
+2023-07-05,2023-07-09,5–9 July 2023,Essential,Und,First preference,2025,2023-07-07,5
+2023-07-12,2023-07-15,12–15 July 2023,Newspoll,ALP,First preference,2025,2023-07-13,36
+2023-07-12,2023-07-15,12–15 July 2023,Newspoll,ALP,Two-party-preferred,2025,2023-07-13,55
+2023-07-12,2023-07-15,12–15 July 2023,Newspoll,Grn,First preference,2025,2023-07-13,12
+2023-07-12,2023-07-15,12–15 July 2023,Newspoll,Lib/Nat,First preference,2025,2023-07-13,34
+2023-07-12,2023-07-15,12–15 July 2023,Newspoll,Lib/Nat,Two-party-preferred,2025,2023-07-13,45
+2023-07-12,2023-07-15,12–15 July 2023,Newspoll,ONP,First preference,2025,2023-07-13,7
+2023-07-12,2023-07-15,12–15 July 2023,Newspoll,Oth,First preference,2025,2023-07-13,11
+2023-07-12,2023-07-15,12–15 July 2023,Resolve Strategic,ALP,First preference,2025,2023-07-13,39
+2023-07-12,2023-07-15,12–15 July 2023,Resolve Strategic,ALP,Two-party-preferred,2025,2023-07-13,59
+2023-07-12,2023-07-15,12–15 July 2023,Resolve Strategic,Grn,First preference,2025,2023-07-13,11
+2023-07-12,2023-07-15,12–15 July 2023,Resolve Strategic,Lib/Nat,First preference,2025,2023-07-13,30
+2023-07-12,2023-07-15,12–15 July 2023,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2023-07-13,41
+2023-07-12,2023-07-15,12–15 July 2023,Resolve Strategic,ONP,First preference,2025,2023-07-13,6
+2023-07-12,2023-07-15,12–15 July 2023,Resolve Strategic,Oth,First preference,2025,2023-07-13,11
+2023-07-12,2023-07-15,12–15 July 2023,Resolve Strategic,UAP,First preference,2025,2023-07-13,1
+2023-07-19,2023-07-23,19–23 July 2023,Essential,ALP,First preference,2025,2023-07-21,31
+2023-07-19,2023-07-23,19–23 July 2023,Essential,ALP,Two-party-preferred,2025,2023-07-21,50
+2023-07-19,2023-07-23,19–23 July 2023,Essential,Grn,First preference,2025,2023-07-21,14
+2023-07-19,2023-07-23,19–23 July 2023,Essential,Lib/Nat,First preference,2025,2023-07-21,32
+2023-07-19,2023-07-23,19–23 July 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-07-21,45
+2023-07-19,2023-07-23,19–23 July 2023,Essential,ONP,First preference,2025,2023-07-21,7
+2023-07-19,2023-07-23,19–23 July 2023,Essential,Oth,First preference,2025,2023-07-21,9
+2023-07-19,2023-07-23,19–23 July 2023,Essential,UAP,First preference,2025,2023-07-21,1
+2023-07-19,2023-07-23,19–23 July 2023,Essential,Und,First preference,2025,2023-07-21,6
+2023-08-02,2023-08-06,2–6 August 2023,Essential,ALP,First preference,2025,2023-08-04,33
+2023-08-02,2023-08-06,2–6 August 2023,Essential,ALP,Two-party-preferred,2025,2023-08-04,52
+2023-08-02,2023-08-06,2–6 August 2023,Essential,Grn,First preference,2025,2023-08-04,12
+2023-08-02,2023-08-06,2–6 August 2023,Essential,Lib/Nat,First preference,2025,2023-08-04,30
+2023-08-02,2023-08-06,2–6 August 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-08-04,42
+2023-08-02,2023-08-06,2–6 August 2023,Essential,ONP,First preference,2025,2023-08-04,8
+2023-08-02,2023-08-06,2–6 August 2023,Essential,Oth,First preference,2025,2023-08-04,8
+2023-08-02,2023-08-06,2–6 August 2023,Essential,UAP,First preference,2025,2023-08-04,2
+2023-08-02,2023-08-06,2–6 August 2023,Essential,Und,First preference,2025,2023-08-04,6
+2023-08-09,2023-08-13,9–13 August 2023,Resolve Strategic,ALP,First preference,2025,2023-08-11,37
+2023-08-09,2023-08-13,9–13 August 2023,Resolve Strategic,ALP,Two-party-preferred,2025,2023-08-11,56
+2023-08-09,2023-08-13,9–13 August 2023,Resolve Strategic,Grn,First preference,2025,2023-08-11,11
+2023-08-09,2023-08-13,9–13 August 2023,Resolve Strategic,Lib/Nat,First preference,2025,2023-08-11,33
+2023-08-09,2023-08-13,9–13 August 2023,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2023-08-11,44
+2023-08-09,2023-08-13,9–13 August 2023,Resolve Strategic,ONP,First preference,2025,2023-08-11,5
+2023-08-09,2023-08-13,9–13 August 2023,Resolve Strategic,Oth,First preference,2025,2023-08-11,12
+2023-08-09,2023-08-13,9–13 August 2023,Resolve Strategic,UAP,First preference,2025,2023-08-11,2
+2023-08-10,2023-08-14,10–14 August 2023,RedBridge Group,ALP,First preference,2025,2023-08-12,38
+2023-08-10,2023-08-14,10–14 August 2023,RedBridge Group,ALP,Two-party-preferred,2025,2023-08-12,55.6
+2023-08-10,2023-08-14,10–14 August 2023,RedBridge Group,Grn,First preference,2025,2023-08-12,10
+2023-08-10,2023-08-14,10–14 August 2023,RedBridge Group,Lib/Nat,First preference,2025,2023-08-12,32
+2023-08-10,2023-08-14,10–14 August 2023,RedBridge Group,Lib/Nat,Two-party-preferred,2025,2023-08-12,44.4
+2023-08-10,2023-08-14,10–14 August 2023,RedBridge Group,Oth,First preference,2025,2023-08-12,21
+2023-08-14,2023-09-01,28 August – 1 September 2023,Newspoll,ALP,First preference,2025,2023-08-23,35
+2023-08-14,2023-09-01,28 August – 1 September 2023,Newspoll,ALP,Two-party-preferred,2025,2023-08-23,53
+2023-08-14,2023-09-01,28 August – 1 September 2023,Newspoll,Grn,First preference,2025,2023-08-23,13
+2023-08-14,2023-09-01,28 August – 1 September 2023,Newspoll,Lib/Nat,First preference,2025,2023-08-23,37
+2023-08-14,2023-09-01,28 August – 1 September 2023,Newspoll,Lib/Nat,Two-party-preferred,2025,2023-08-23,47
+2023-08-14,2023-09-01,28 August – 1 September 2023,Newspoll,ONP,First preference,2025,2023-08-23,7
+2023-08-14,2023-09-01,28 August – 1 September 2023,Newspoll,Oth,First preference,2025,2023-08-23,8
+2023-08-16,2023-08-20,16–20 August 2023,Essential,ALP,First preference,2025,2023-08-18,33
+2023-08-16,2023-08-20,16–20 August 2023,Essential,ALP,Two-party-preferred,2025,2023-08-18,51
+2023-08-16,2023-08-20,16–20 August 2023,Essential,Grn,First preference,2025,2023-08-18,14
+2023-08-16,2023-08-20,16–20 August 2023,Essential,Lib/Nat,First preference,2025,2023-08-18,33
+2023-08-16,2023-08-20,16–20 August 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-08-18,43
+2023-08-16,2023-08-20,16–20 August 2023,Essential,ONP,First preference,2025,2023-08-18,5
+2023-08-16,2023-08-20,16–20 August 2023,Essential,Oth,First preference,2025,2023-08-18,7
+2023-08-16,2023-08-20,16–20 August 2023,Essential,UAP,First preference,2025,2023-08-18,3
+2023-08-16,2023-08-20,16–20 August 2023,Essential,Und,First preference,2025,2023-08-18,6
+2023-08-16,2023-09-03,28 August – 3 September 2023,Roy Morgan,ALP,First preference,2025,2023-08-25,33.5
+2023-08-16,2023-09-03,28 August – 3 September 2023,Roy Morgan,ALP,Two-party-preferred,2025,2023-08-25,53
+2023-08-16,2023-09-03,28 August – 3 September 2023,Roy Morgan,Grn,First preference,2025,2023-08-25,13
+2023-08-16,2023-09-03,28 August – 3 September 2023,Roy Morgan,Lib/Nat,First preference,2025,2023-08-25,37.5
+2023-08-16,2023-09-03,28 August – 3 September 2023,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2023-08-25,47
+2023-08-16,2023-09-03,28 August – 3 September 2023,Roy Morgan,Oth,First preference,2025,2023-08-25,16
+2023-08-16,2023-09-03,30 August – 3 September 2023,Essential,ALP,First preference,2025,2023-08-25,31
+2023-08-16,2023-09-03,30 August – 3 September 2023,Essential,ALP,Two-party-preferred,2025,2023-08-25,51
+2023-08-16,2023-09-03,30 August – 3 September 2023,Essential,Grn,First preference,2025,2023-08-25,15
+2023-08-16,2023-09-03,30 August – 3 September 2023,Essential,Lib/Nat,First preference,2025,2023-08-25,32
+2023-08-16,2023-09-03,30 August – 3 September 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-08-25,43
+2023-08-16,2023-09-03,30 August – 3 September 2023,Essential,ONP,First preference,2025,2023-08-25,7
+2023-08-16,2023-09-03,30 August – 3 September 2023,Essential,Oth,First preference,2025,2023-08-25,7
+2023-08-16,2023-09-03,30 August – 3 September 2023,Essential,UAP,First preference,2025,2023-08-25,2
+2023-08-16,2023-09-03,30 August – 3 September 2023,Essential,Und,First preference,2025,2023-08-25,6
+2023-08-17,2023-09-04,30 August – 4 September 2023,RedBridge Group,ALP,First preference,2025,2023-08-26,37
+2023-08-17,2023-09-04,30 August – 4 September 2023,RedBridge Group,ALP,Two-party-preferred,2025,2023-08-26,54.1
+2023-08-17,2023-09-04,30 August – 4 September 2023,RedBridge Group,Grn,First preference,2025,2023-08-26,13
+2023-08-17,2023-09-04,30 August – 4 September 2023,RedBridge Group,Lib/Nat,First preference,2025,2023-08-26,36
+2023-08-17,2023-09-04,30 August – 4 September 2023,RedBridge Group,Lib/Nat,Two-party-preferred,2025,2023-08-26,45.9
+2023-08-17,2023-09-04,30 August – 4 September 2023,RedBridge Group,Oth,First preference,2025,2023-08-26,14
+2023-09-04,2023-09-10,4–10 September 2023,Roy Morgan,ALP,First preference,2025,2023-09-07,32
+2023-09-04,2023-09-10,4–10 September 2023,Roy Morgan,ALP,Two-party-preferred,2025,2023-09-07,52.5
+2023-09-04,2023-09-10,4–10 September 2023,Roy Morgan,Grn,First preference,2025,2023-09-07,13.5
+2023-09-04,2023-09-10,4–10 September 2023,Roy Morgan,Lib/Nat,First preference,2025,2023-09-07,37
+2023-09-04,2023-09-10,4–10 September 2023,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2023-09-07,47.5
+2023-09-04,2023-09-10,4–10 September 2023,Roy Morgan,Oth,First preference,2025,2023-09-07,17.5
+2023-09-06,2023-09-09,6–9 September 2023,Resolve Strategic,ALP,First preference,2025,2023-09-07,36
+2023-09-06,2023-09-09,6–9 September 2023,Resolve Strategic,ALP,Two-party-preferred,2025,2023-09-07,55.5
+2023-09-06,2023-09-09,6–9 September 2023,Resolve Strategic,Grn,First preference,2025,2023-09-07,12
+2023-09-06,2023-09-09,6–9 September 2023,Resolve Strategic,Lib/Nat,First preference,2025,2023-09-07,34
+2023-09-06,2023-09-09,6–9 September 2023,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2023-09-07,44.5
+2023-09-06,2023-09-09,6–9 September 2023,Resolve Strategic,ONP,First preference,2025,2023-09-07,5
+2023-09-06,2023-09-09,6–9 September 2023,Resolve Strategic,Oth,First preference,2025,2023-09-07,11
+2023-09-06,2023-09-09,6–9 September 2023,Resolve Strategic,UAP,First preference,2025,2023-09-07,2
+2023-09-13,2023-09-17,13–17 September 2023,Essential,ALP,First preference,2025,2023-09-15,31
+2023-09-13,2023-09-17,13–17 September 2023,Essential,ALP,Two-party-preferred,2025,2023-09-15,49
+2023-09-13,2023-09-17,13–17 September 2023,Essential,Grn,First preference,2025,2023-09-15,13
+2023-09-13,2023-09-17,13–17 September 2023,Essential,Lib/Nat,First preference,2025,2023-09-15,32
+2023-09-13,2023-09-17,13–17 September 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-09-15,45
+2023-09-13,2023-09-17,13–17 September 2023,Essential,ONP,First preference,2025,2023-09-15,8
+2023-09-13,2023-09-17,13–17 September 2023,Essential,Oth,First preference,2025,2023-09-15,8
+2023-09-13,2023-09-17,13–17 September 2023,Essential,UAP,First preference,2025,2023-09-15,2
+2023-09-13,2023-09-17,13–17 September 2023,Essential,Und,First preference,2025,2023-09-15,6
+2023-09-13,2023-10-04,22 September – 4 October 2023,Resolve Strategic,ALP,First preference,2025,2023-09-23,37
+2023-09-13,2023-10-04,22 September – 4 October 2023,Resolve Strategic,ALP,Two-party-preferred,2025,2023-09-23,57
+2023-09-13,2023-10-04,22 September – 4 October 2023,Resolve Strategic,Grn,First preference,2025,2023-09-23,12
+2023-09-13,2023-10-04,22 September – 4 October 2023,Resolve Strategic,Lib/Nat,First preference,2025,2023-09-23,31
+2023-09-13,2023-10-04,22 September – 4 October 2023,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2023-09-23,43
+2023-09-13,2023-10-04,22 September – 4 October 2023,Resolve Strategic,ONP,First preference,2025,2023-09-23,7
+2023-09-13,2023-10-04,22 September – 4 October 2023,Resolve Strategic,Oth,First preference,2025,2023-09-23,11
+2023-09-13,2023-10-04,22 September – 4 October 2023,Resolve Strategic,UAP,First preference,2025,2023-09-23,2
+2023-09-14,2023-10-01,27 September – 1 October 2023,Essential,ALP,First preference,2025,2023-09-22,33
+2023-09-14,2023-10-01,27 September – 1 October 2023,Essential,ALP,Two-party-preferred,2025,2023-09-22,50
+2023-09-14,2023-10-01,27 September – 1 October 2023,Essential,Grn,First preference,2025,2023-09-22,14
+2023-09-14,2023-10-01,27 September – 1 October 2023,Essential,Lib/Nat,First preference,2025,2023-09-22,32
+2023-09-14,2023-10-01,27 September – 1 October 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-09-22,45
+2023-09-14,2023-10-01,27 September – 1 October 2023,Essential,ONP,First preference,2025,2023-09-22,6
+2023-09-14,2023-10-01,27 September – 1 October 2023,Essential,Oth,First preference,2025,2023-09-22,7
+2023-09-14,2023-10-01,27 September – 1 October 2023,Essential,UAP,First preference,2025,2023-09-22,2
+2023-09-14,2023-10-01,27 September – 1 October 2023,Essential,Und,First preference,2025,2023-09-22,5
+2023-09-18,2023-09-22,18–22 September 2023,Newspoll,ALP,First preference,2025,2023-09-20,36
+2023-09-18,2023-09-22,18–22 September 2023,Newspoll,ALP,Two-party-preferred,2025,2023-09-20,54
+2023-09-18,2023-09-22,18–22 September 2023,Newspoll,Grn,First preference,2025,2023-09-20,11
+2023-09-18,2023-09-22,18–22 September 2023,Newspoll,Lib/Nat,First preference,2025,2023-09-20,36
+2023-09-18,2023-09-22,18–22 September 2023,Newspoll,Lib/Nat,Two-party-preferred,2025,2023-09-20,46
+2023-09-18,2023-09-22,18–22 September 2023,Newspoll,ONP,First preference,2025,2023-09-20,6
+2023-09-18,2023-09-22,18–22 September 2023,Newspoll,Oth,First preference,2025,2023-09-20,11
+2023-09-22,2023-09-24,22–24 September 2023,Freshwater Strategy,ALP,First preference,2025,2023-09-23,33
+2023-09-22,2023-09-24,22–24 September 2023,Freshwater Strategy,ALP,Two-party-preferred,2025,2023-09-23,51
+2023-09-22,2023-09-24,22–24 September 2023,Freshwater Strategy,Grn,First preference,2025,2023-09-23,13
+2023-09-22,2023-09-24,22–24 September 2023,Freshwater Strategy,Lib/Nat,First preference,2025,2023-09-23,37
+2023-09-22,2023-09-24,22–24 September 2023,Freshwater Strategy,Lib/Nat,Two-party-preferred,2025,2023-09-23,49
+2023-09-22,2023-09-24,22–24 September 2023,Freshwater Strategy,Oth,First preference,2025,2023-09-23,17
+2023-09-25,2023-09-29,25–29 September 2023,YouGov,ALP,First preference,2025,2023-09-27,33
+2023-09-25,2023-09-29,25–29 September 2023,YouGov,ALP,Two-party-preferred,2025,2023-09-27,53
+2023-09-25,2023-09-29,25–29 September 2023,YouGov,Grn,First preference,2025,2023-09-27,13
+2023-09-25,2023-09-29,25–29 September 2023,YouGov,Lib/Nat,First preference,2025,2023-09-27,35
+2023-09-25,2023-09-29,25–29 September 2023,YouGov,Lib/Nat,Two-party-preferred,2025,2023-09-27,47
+2023-09-25,2023-09-29,25–29 September 2023,YouGov,Oth,First preference,2025,2023-09-27,19
+2023-10-03,2023-10-06,3–6 October 2023,Newspoll,ALP,First preference,2025,2023-10-04,34
+2023-10-03,2023-10-06,3–6 October 2023,Newspoll,ALP,Two-party-preferred,2025,2023-10-04,53
+2023-10-03,2023-10-06,3–6 October 2023,Newspoll,Grn,First preference,2025,2023-10-04,12
+2023-10-03,2023-10-06,3–6 October 2023,Newspoll,Lib/Nat,First preference,2025,2023-10-04,36
+2023-10-03,2023-10-06,3–6 October 2023,Newspoll,Lib/Nat,Two-party-preferred,2025,2023-10-04,47
+2023-10-03,2023-10-06,3–6 October 2023,Newspoll,ONP,First preference,2025,2023-10-04,5
+2023-10-03,2023-10-06,3–6 October 2023,Newspoll,Oth,First preference,2025,2023-10-04,13
+2023-10-04,2023-10-12,4–12 October 2023,Newspoll,ALP,First preference,2025,2023-10-08,36
+2023-10-04,2023-10-12,4–12 October 2023,Newspoll,ALP,Two-party-preferred,2025,2023-10-08,54
+2023-10-04,2023-10-12,4–12 October 2023,Newspoll,Grn,First preference,2025,2023-10-08,12
+2023-10-04,2023-10-12,4–12 October 2023,Newspoll,Lib/Nat,First preference,2025,2023-10-08,35
+2023-10-04,2023-10-12,4–12 October 2023,Newspoll,Lib/Nat,Two-party-preferred,2025,2023-10-08,46
+2023-10-04,2023-10-12,4–12 October 2023,Newspoll,ONP,First preference,2025,2023-10-08,6
+2023-10-04,2023-10-12,4–12 October 2023,Newspoll,Oth,First preference,2025,2023-10-08,11
+2023-10-06,2023-10-10,6–10 October 2023,YouGov,ALP,First preference,2025,2023-10-08,33
+2023-10-06,2023-10-10,6–10 October 2023,YouGov,ALP,Two-party-preferred,2025,2023-10-08,53
+2023-10-06,2023-10-10,6–10 October 2023,YouGov,Grn,First preference,2025,2023-10-08,14
+2023-10-06,2023-10-10,6–10 October 2023,YouGov,Lib/Nat,First preference,2025,2023-10-08,36
+2023-10-06,2023-10-10,6–10 October 2023,YouGov,Lib/Nat,Two-party-preferred,2025,2023-10-08,47
+2023-10-06,2023-10-10,6–10 October 2023,YouGov,ONP,First preference,2025,2023-10-08,6
+2023-10-06,2023-10-10,6–10 October 2023,YouGov,Oth,First preference,2025,2023-10-08,11
+2023-10-14,2023-11-02,27 October – 2 November 2023,RedBridge Group,ALP,First preference,2025,2023-10-23,34
+2023-10-14,2023-11-02,27 October – 2 November 2023,RedBridge Group,ALP,Two-party-preferred,2025,2023-10-23,53.5
+2023-10-14,2023-11-02,27 October – 2 November 2023,RedBridge Group,Grn,First preference,2025,2023-10-23,14
+2023-10-14,2023-11-02,27 October – 2 November 2023,RedBridge Group,Lib/Nat,First preference,2025,2023-10-23,35
+2023-10-14,2023-11-02,27 October – 2 November 2023,RedBridge Group,Lib/Nat,Two-party-preferred,2025,2023-10-23,46.5
+2023-10-14,2023-11-02,27 October – 2 November 2023,RedBridge Group,Oth,First preference,2025,2023-10-23,17
+2023-10-16,2023-10-22,16–22 October 2023,Roy Morgan,ALP,First preference,2025,2023-10-19,32
+2023-10-16,2023-10-22,16–22 October 2023,Roy Morgan,ALP,Two-party-preferred,2025,2023-10-19,49.5
+2023-10-16,2023-10-22,16–22 October 2023,Roy Morgan,Grn,First preference,2025,2023-10-19,14
+2023-10-16,2023-10-22,16–22 October 2023,Roy Morgan,Lib/Nat,First preference,2025,2023-10-19,36
+2023-10-16,2023-10-22,16–22 October 2023,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2023-10-19,50.5
+2023-10-16,2023-10-22,16–22 October 2023,Roy Morgan,ONP,First preference,2025,2023-10-19,4.5
+2023-10-16,2023-10-22,16–22 October 2023,Roy Morgan,Oth,First preference,2025,2023-10-19,13.5
+2023-10-16,2023-11-03,30 October – 3 November 2023,Newspoll,ALP,First preference,2025,2023-10-25,35
+2023-10-16,2023-11-03,30 October – 3 November 2023,Newspoll,ALP,Two-party-preferred,2025,2023-10-25,52
+2023-10-16,2023-11-03,30 October – 3 November 2023,Newspoll,Grn,First preference,2025,2023-10-25,12
+2023-10-16,2023-11-03,30 October – 3 November 2023,Newspoll,Lib/Nat,First preference,2025,2023-10-25,37
+2023-10-16,2023-11-03,30 October – 3 November 2023,Newspoll,Lib/Nat,Two-party-preferred,2025,2023-10-25,48
+2023-10-16,2023-11-03,30 October – 3 November 2023,Newspoll,ONP,First preference,2025,2023-10-25,6
+2023-10-16,2023-11-03,30 October – 3 November 2023,Newspoll,Oth,First preference,2025,2023-10-25,10
+2023-10-23,2023-10-29,23–29 October 2023,Roy Morgan,ALP,First preference,2025,2023-10-26,32.5
+2023-10-23,2023-10-29,23–29 October 2023,Roy Morgan,ALP,Two-party-preferred,2025,2023-10-26,53
+2023-10-23,2023-10-29,23–29 October 2023,Roy Morgan,Grn,First preference,2025,2023-10-26,15
+2023-10-23,2023-10-29,23–29 October 2023,Roy Morgan,Lib/Nat,First preference,2025,2023-10-26,35
+2023-10-23,2023-10-29,23–29 October 2023,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2023-10-26,47
+2023-10-23,2023-10-29,23–29 October 2023,Roy Morgan,Oth,First preference,2025,2023-10-26,17.5
+2023-10-25,2023-10-29,25–29 October 2023,Essential,ALP,First preference,2025,2023-10-27,32
+2023-10-25,2023-10-29,25–29 October 2023,Essential,ALP,Two-party-preferred,2025,2023-10-27,48
+2023-10-25,2023-10-29,25–29 October 2023,Essential,Grn,First preference,2025,2023-10-27,10
+2023-10-25,2023-10-29,25–29 October 2023,Essential,Lib/Nat,First preference,2025,2023-10-27,34
+2023-10-25,2023-10-29,25–29 October 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-10-27,46
+2023-10-25,2023-10-29,25–29 October 2023,Essential,ONP,First preference,2025,2023-10-27,7
+2023-10-25,2023-10-29,25–29 October 2023,Essential,Oth,First preference,2025,2023-10-27,9
+2023-10-25,2023-10-29,25–29 October 2023,Essential,UAP,First preference,2025,2023-10-27,3
+2023-10-25,2023-10-29,25–29 October 2023,Essential,Und,First preference,2025,2023-10-27,6
+2023-11-01,2023-11-05,1–5 November 2023,Resolve Strategic,ALP,First preference,2025,2023-11-03,35
+2023-11-01,2023-11-05,1–5 November 2023,Resolve Strategic,ALP,Two-party-preferred,2025,2023-11-03,57
+2023-11-01,2023-11-05,1–5 November 2023,Resolve Strategic,Grn,First preference,2025,2023-11-03,13
+2023-11-01,2023-11-05,1–5 November 2023,Resolve Strategic,Lib/Nat,First preference,2025,2023-11-03,30
+2023-11-01,2023-11-05,1–5 November 2023,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2023-11-03,43
+2023-11-01,2023-11-05,1–5 November 2023,Resolve Strategic,ONP,First preference,2025,2023-11-03,7
+2023-11-01,2023-11-05,1–5 November 2023,Resolve Strategic,Oth,First preference,2025,2023-11-03,13
+2023-11-01,2023-11-05,1–5 November 2023,Resolve Strategic,UAP,First preference,2025,2023-11-03,2
+2023-11-06,2023-11-12,6–12 November 2023,Roy Morgan,ALP,First preference,2025,2023-11-09,30
+2023-11-06,2023-11-12,6–12 November 2023,Roy Morgan,ALP,Two-party-preferred,2025,2023-11-09,50
+2023-11-06,2023-11-12,6–12 November 2023,Roy Morgan,Grn,First preference,2025,2023-11-09,13
+2023-11-06,2023-11-12,6–12 November 2023,Roy Morgan,Lib/Nat,First preference,2025,2023-11-09,36.5
+2023-11-06,2023-11-12,6–12 November 2023,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2023-11-09,50
+2023-11-06,2023-11-12,6–12 November 2023,Roy Morgan,ONP,First preference,2025,2023-11-09,6
+2023-11-06,2023-11-12,6–12 November 2023,Roy Morgan,Oth,First preference,2025,2023-11-09,14.5
+2023-11-08,2023-11-12,8–12 November 2023,Essential,ALP,First preference,2025,2023-11-10,32
+2023-11-08,2023-11-12,8–12 November 2023,Essential,ALP,Two-party-preferred,2025,2023-11-10,49
+2023-11-08,2023-11-12,8–12 November 2023,Essential,Grn,First preference,2025,2023-11-10,12
+2023-11-08,2023-11-12,8–12 November 2023,Essential,Lib/Nat,First preference,2025,2023-11-10,34
+2023-11-08,2023-11-12,8–12 November 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-11-10,47
+2023-11-08,2023-11-12,8–12 November 2023,Essential,ONP,First preference,2025,2023-11-10,7
+2023-11-08,2023-11-12,8–12 November 2023,Essential,Oth,First preference,2025,2023-11-10,8
+2023-11-08,2023-11-12,8–12 November 2023,Essential,UAP,First preference,2025,2023-11-10,2
+2023-11-08,2023-11-12,8–12 November 2023,Essential,Und,First preference,2025,2023-11-10,5
+2023-11-10,2023-11-14,10–14 November 2023,YouGov,ALP,First preference,2025,2023-11-12,31
+2023-11-10,2023-11-14,10–14 November 2023,YouGov,ALP,Two-party-preferred,2025,2023-11-12,51
+2023-11-10,2023-11-14,10–14 November 2023,YouGov,Grn,First preference,2025,2023-11-12,13
+2023-11-10,2023-11-14,10–14 November 2023,YouGov,Lib/Nat,First preference,2025,2023-11-12,36
+2023-11-10,2023-11-14,10–14 November 2023,YouGov,Lib/Nat,Two-party-preferred,2025,2023-11-12,49
+2023-11-10,2023-11-14,10–14 November 2023,YouGov,ONP,First preference,2025,2023-11-12,7
+2023-11-10,2023-11-14,10–14 November 2023,YouGov,Oth,First preference,2025,2023-11-12,13
+2023-11-13,2023-11-19,13–19 November 2023,Roy Morgan,ALP,First preference,2025,2023-11-16,29.5
+2023-11-13,2023-11-19,13–19 November 2023,Roy Morgan,ALP,Two-party-preferred,2025,2023-11-16,49.5
+2023-11-13,2023-11-19,13–19 November 2023,Roy Morgan,Grn,First preference,2025,2023-11-16,13.5
+2023-11-13,2023-11-19,13–19 November 2023,Roy Morgan,Lib/Nat,First preference,2025,2023-11-16,37.5
+2023-11-13,2023-11-19,13–19 November 2023,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2023-11-16,50.5
+2023-11-13,2023-11-19,13–19 November 2023,Roy Morgan,ONP,First preference,2025,2023-11-16,6.5
+2023-11-13,2023-11-19,13–19 November 2023,Roy Morgan,Oth,First preference,2025,2023-11-16,13
+2023-11-15,2023-12-03,27 November – 3 December 2023,Roy Morgan,ALP,First preference,2025,2023-11-24,32.5
+2023-11-15,2023-12-03,27 November – 3 December 2023,Roy Morgan,ALP,Two-party-preferred,2025,2023-11-24,51
+2023-11-15,2023-12-03,27 November – 3 December 2023,Roy Morgan,Grn,First preference,2025,2023-11-24,12.5
+2023-11-15,2023-12-03,27 November – 3 December 2023,Roy Morgan,Lib/Nat,First preference,2025,2023-11-24,37.5
+2023-11-15,2023-12-03,27 November – 3 December 2023,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2023-11-24,49
+2023-11-15,2023-12-03,27 November – 3 December 2023,Roy Morgan,ONP,First preference,2025,2023-11-24,5
+2023-11-15,2023-12-03,27 November – 3 December 2023,Roy Morgan,Oth,First preference,2025,2023-11-24,12.5
+2023-11-16,2023-12-03,29 November – 3 December 2023,Resolve Strategic,ALP,First preference,2025,2023-11-24,35
+2023-11-16,2023-12-03,29 November – 3 December 2023,Resolve Strategic,ALP,Two-party-preferred,2025,2023-11-24,55
+2023-11-16,2023-12-03,29 November – 3 December 2023,Resolve Strategic,Grn,First preference,2025,2023-11-24,12
+2023-11-16,2023-12-03,29 November – 3 December 2023,Resolve Strategic,Lib/Nat,First preference,2025,2023-11-24,34
+2023-11-16,2023-12-03,29 November – 3 December 2023,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2023-11-24,45
+2023-11-16,2023-12-03,29 November – 3 December 2023,Resolve Strategic,ONP,First preference,2025,2023-11-24,5
+2023-11-16,2023-12-03,29 November – 3 December 2023,Resolve Strategic,Oth,First preference,2025,2023-11-24,12
+2023-11-16,2023-12-03,29 November – 3 December 2023,Resolve Strategic,UAP,First preference,2025,2023-11-24,1
+2023-11-20,2023-11-24,20–24 November 2023,Newspoll,ALP,First preference,2025,2023-11-22,31
+2023-11-20,2023-11-24,20–24 November 2023,Newspoll,ALP,Two-party-preferred,2025,2023-11-22,50
+2023-11-20,2023-11-24,20–24 November 2023,Newspoll,Grn,First preference,2025,2023-11-22,13
+2023-11-20,2023-11-24,20–24 November 2023,Newspoll,Lib/Nat,First preference,2025,2023-11-22,38
+2023-11-20,2023-11-24,20–24 November 2023,Newspoll,Lib/Nat,Two-party-preferred,2025,2023-11-22,50
+2023-11-20,2023-11-24,20–24 November 2023,Newspoll,ONP,First preference,2025,2023-11-22,6
+2023-11-20,2023-11-24,20–24 November 2023,Newspoll,Oth,First preference,2025,2023-11-22,12
+2023-11-20,2023-11-26,20–26 November 2023,Roy Morgan,ALP,First preference,2025,2023-11-23,32
+2023-11-20,2023-11-26,20–26 November 2023,Roy Morgan,ALP,Two-party-preferred,2025,2023-11-23,52.5
+2023-11-20,2023-11-26,20–26 November 2023,Roy Morgan,Grn,First preference,2025,2023-11-23,13.5
+2023-11-20,2023-11-26,20–26 November 2023,Roy Morgan,Lib/Nat,First preference,2025,2023-11-23,35
+2023-11-20,2023-11-26,20–26 November 2023,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2023-11-23,47.5
+2023-11-20,2023-11-26,20–26 November 2023,Roy Morgan,ONP,First preference,2025,2023-11-23,5
+2023-11-20,2023-11-26,20–26 November 2023,Roy Morgan,Oth,First preference,2025,2023-11-23,14.5
+2023-11-22,2023-11-26,22–26 November 2023,Essential,ALP,First preference,2025,2023-11-24,31
+2023-11-22,2023-11-26,22–26 November 2023,Essential,ALP,Two-party-preferred,2025,2023-11-24,48
+2023-11-22,2023-11-26,22–26 November 2023,Essential,Grn,First preference,2025,2023-11-24,13
+2023-11-22,2023-11-26,22–26 November 2023,Essential,Lib/Nat,First preference,2025,2023-11-24,34
+2023-11-22,2023-11-26,22–26 November 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-11-24,47
+2023-11-22,2023-11-26,22–26 November 2023,Essential,ONP,First preference,2025,2023-11-24,7
+2023-11-22,2023-11-26,22–26 November 2023,Essential,Oth,First preference,2025,2023-11-24,8
+2023-11-22,2023-11-26,22–26 November 2023,Essential,UAP,First preference,2025,2023-11-24,1
+2023-11-22,2023-11-26,22–26 November 2023,Essential,Und,First preference,2025,2023-11-24,6
+2023-12-01,2023-12-05,1–5 December 2023,YouGov,ALP,First preference,2025,2023-12-03,29
+2023-12-01,2023-12-05,1–5 December 2023,YouGov,ALP,Two-party-preferred,2025,2023-12-03,51
+2023-12-01,2023-12-05,1–5 December 2023,YouGov,Grn,First preference,2025,2023-12-03,15
+2023-12-01,2023-12-05,1–5 December 2023,YouGov,Lib/Nat,First preference,2025,2023-12-03,36
+2023-12-01,2023-12-05,1–5 December 2023,YouGov,Lib/Nat,Two-party-preferred,2025,2023-12-03,49
+2023-12-01,2023-12-05,1–5 December 2023,YouGov,ONP,First preference,2025,2023-12-03,7
+2023-12-01,2023-12-05,1–5 December 2023,YouGov,Oth,First preference,2025,2023-12-03,13
+2023-12-06,2023-12-11,6–11 December 2023,Essential,ALP,First preference,2025,2023-12-08,31
+2023-12-06,2023-12-11,6–11 December 2023,Essential,ALP,Two-party-preferred,2025,2023-12-08,49
+2023-12-06,2023-12-11,6–11 December 2023,Essential,Grn,First preference,2025,2023-12-08,13
+2023-12-06,2023-12-11,6–11 December 2023,Essential,Lib/Nat,First preference,2025,2023-12-08,34
+2023-12-06,2023-12-11,6–11 December 2023,Essential,Lib/Nat,Two-party-preferred,2025,2023-12-08,46
+2023-12-06,2023-12-11,6–11 December 2023,Essential,ONP,First preference,2025,2023-12-08,6
+2023-12-06,2023-12-11,6–11 December 2023,Essential,Oth,First preference,2025,2023-12-08,9
+2023-12-06,2023-12-11,6–11 December 2023,Essential,UAP,First preference,2025,2023-12-08,2
+2023-12-06,2023-12-11,6–11 December 2023,Essential,Und,First preference,2025,2023-12-08,5
+2023-12-06,2023-12-11,6–11 December 2023,RedBridge Group,ALP,First preference,2025,2023-12-08,33
+2023-12-06,2023-12-11,6–11 December 2023,RedBridge Group,ALP,Two-party-preferred,2025,2023-12-08,52.8
+2023-12-06,2023-12-11,6–11 December 2023,RedBridge Group,Grn,First preference,2025,2023-12-08,13
+2023-12-06,2023-12-11,6–11 December 2023,RedBridge Group,Lib/Nat,First preference,2025,2023-12-08,35
+2023-12-06,2023-12-11,6–11 December 2023,RedBridge Group,Lib/Nat,Two-party-preferred,2025,2023-12-08,47.2
+2023-12-06,2023-12-11,6–11 December 2023,RedBridge Group,Oth,First preference,2025,2023-12-08,19
+2023-12-11,2023-12-15,11–15 December 2023,Newspoll,ALP,First preference,2025,2023-12-13,33
+2023-12-11,2023-12-15,11–15 December 2023,Newspoll,ALP,Two-party-preferred,2025,2023-12-13,52
+2023-12-11,2023-12-15,11–15 December 2023,Newspoll,Grn,First preference,2025,2023-12-13,13
+2023-12-11,2023-12-15,11–15 December 2023,Newspoll,Lib/Nat,First preference,2025,2023-12-13,36
+2023-12-11,2023-12-15,11–15 December 2023,Newspoll,Lib/Nat,Two-party-preferred,2025,2023-12-13,48
+2023-12-11,2023-12-15,11–15 December 2023,Newspoll,ONP,First preference,2025,2023-12-13,7
+2023-12-11,2023-12-15,11–15 December 2023,Newspoll,Oth,First preference,2025,2023-12-13,11
+2023-12-11,2023-12-17,11–17 December 2023,Roy Morgan,ALP,First preference,2025,2023-12-14,32
+2023-12-11,2023-12-17,11–17 December 2023,Roy Morgan,ALP,Two-party-preferred,2025,2023-12-14,50
+2023-12-11,2023-12-17,11–17 December 2023,Roy Morgan,Grn,First preference,2025,2023-12-14,11.5
+2023-12-11,2023-12-17,11–17 December 2023,Roy Morgan,Lib/Nat,First preference,2025,2023-12-14,38
+2023-12-11,2023-12-17,11–17 December 2023,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2023-12-14,50
+2023-12-11,2023-12-17,11–17 December 2023,Roy Morgan,ONP,First preference,2025,2023-12-14,4.5
+2023-12-11,2023-12-17,11–17 December 2023,Roy Morgan,Oth,First preference,2025,2023-12-14,14
+2023-12-15,2023-12-17,15–17 December 2023,Freshwater Strategy,ALP,First preference,2025,2023-12-16,31
+2023-12-15,2023-12-17,15–17 December 2023,Freshwater Strategy,ALP,Two-party-preferred,2025,2023-12-16,50
+2023-12-15,2023-12-17,15–17 December 2023,Freshwater Strategy,Grn,First preference,2025,2023-12-16,13
+2023-12-15,2023-12-17,15–17 December 2023,Freshwater Strategy,Lib/Nat,First preference,2025,2023-12-16,39
+2023-12-15,2023-12-17,15–17 December 2023,Freshwater Strategy,Lib/Nat,Two-party-preferred,2025,2023-12-16,50
+2023-12-15,2023-12-17,15–17 December 2023,Freshwater Strategy,Oth,First preference,2025,2023-12-16,16
+2024-01-02,2024-01-07,2–7 January 2024,Roy Morgan,ALP,First preference,2025,2024-01-04,29
+2024-01-02,2024-01-07,2–7 January 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-01-04,49
+2024-01-02,2024-01-07,2–7 January 2024,Roy Morgan,Grn,First preference,2025,2024-01-04,13
+2024-01-02,2024-01-07,2–7 January 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-01-04,39
+2024-01-02,2024-01-07,2–7 January 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-01-04,51
+2024-01-02,2024-01-07,2–7 January 2024,Roy Morgan,ONP,First preference,2025,2024-01-04,5
+2024-01-02,2024-01-07,2–7 January 2024,Roy Morgan,Oth,First preference,2025,2024-01-04,14
+2024-01-08,2024-01-14,8–14 January 2024,Roy Morgan,ALP,First preference,2025,2024-01-11,31.5
+2024-01-08,2024-01-14,8–14 January 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-01-11,51.5
+2024-01-08,2024-01-14,8–14 January 2024,Roy Morgan,Grn,First preference,2025,2024-01-11,12
+2024-01-08,2024-01-14,8–14 January 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-01-11,37
+2024-01-08,2024-01-14,8–14 January 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-01-11,48.5
+2024-01-08,2024-01-14,8–14 January 2024,Roy Morgan,ONP,First preference,2025,2024-01-11,4.5
+2024-01-08,2024-01-14,8–14 January 2024,Roy Morgan,Oth,First preference,2025,2024-01-11,15
+2024-01-10,2024-01-11,10–11 January 2024,Freshwater Strategy,ALP,First preference,2025,2024-01-10,31
+2024-01-10,2024-01-11,10–11 January 2024,Freshwater Strategy,ALP,Two-party-preferred,2025,2024-01-10,50
+2024-01-10,2024-01-11,10–11 January 2024,Freshwater Strategy,Grn,First preference,2025,2024-01-10,13
+2024-01-10,2024-01-11,10–11 January 2024,Freshwater Strategy,Lib/Nat,First preference,2025,2024-01-10,39
+2024-01-10,2024-01-11,10–11 January 2024,Freshwater Strategy,Lib/Nat,Two-party-preferred,2025,2024-01-10,50
+2024-01-10,2024-01-11,10–11 January 2024,Freshwater Strategy,Oth,First preference,2025,2024-01-10,16
+2024-01-12,2024-01-17,12–17 January 2024,YouGov,ALP,First preference,2025,2024-01-14,32
+2024-01-12,2024-01-17,12–17 January 2024,YouGov,ALP,Two-party-preferred,2025,2024-01-14,52
+2024-01-12,2024-01-17,12–17 January 2024,YouGov,Grn,First preference,2025,2024-01-14,13
+2024-01-12,2024-01-17,12–17 January 2024,YouGov,Lib/Nat,First preference,2025,2024-01-14,37
+2024-01-12,2024-01-17,12–17 January 2024,YouGov,Lib/Nat,Two-party-preferred,2025,2024-01-14,48
+2024-01-12,2024-01-17,12–17 January 2024,YouGov,ONP,First preference,2025,2024-01-14,7
+2024-01-12,2024-01-17,12–17 January 2024,YouGov,Oth,First preference,2025,2024-01-14,11
+2024-01-15,2024-01-21,15–21 January 2024,Roy Morgan,ALP,First preference,2025,2024-01-18,32.5
+2024-01-15,2024-01-21,15–21 January 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-01-18,52.5
+2024-01-15,2024-01-21,15–21 January 2024,Roy Morgan,Grn,First preference,2025,2024-01-18,12.5
+2024-01-15,2024-01-21,15–21 January 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-01-18,36
+2024-01-15,2024-01-21,15–21 January 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-01-18,47.5
+2024-01-15,2024-01-21,15–21 January 2024,Roy Morgan,ONP,First preference,2025,2024-01-18,5
+2024-01-15,2024-01-21,15–21 January 2024,Roy Morgan,Oth,First preference,2025,2024-01-18,14
+2024-01-16,2024-02-04,29 January – 4 February 2024,Roy Morgan,ALP,First preference,2025,2024-01-25,33
+2024-01-16,2024-02-04,29 January – 4 February 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-01-25,53
+2024-01-16,2024-02-04,29 January – 4 February 2024,Roy Morgan,Grn,First preference,2025,2024-01-25,12
+2024-01-16,2024-02-04,29 January – 4 February 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-01-25,37
+2024-01-16,2024-02-04,29 January – 4 February 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-01-25,47
+2024-01-16,2024-02-04,29 January – 4 February 2024,Roy Morgan,ONP,First preference,2025,2024-01-25,5
+2024-01-16,2024-02-04,29 January – 4 February 2024,Roy Morgan,Oth,First preference,2025,2024-01-25,13
+2024-01-17,2024-02-03,31 January – 3 February 2024,Newspoll,ALP,First preference,2025,2024-01-25,34
+2024-01-17,2024-02-03,31 January – 3 February 2024,Newspoll,ALP,Two-party-preferred,2025,2024-01-25,52
+2024-01-17,2024-02-03,31 January – 3 February 2024,Newspoll,Grn,First preference,2025,2024-01-25,12
+2024-01-17,2024-02-03,31 January – 3 February 2024,Newspoll,Lib/Nat,First preference,2025,2024-01-25,36
+2024-01-17,2024-02-03,31 January – 3 February 2024,Newspoll,Lib/Nat,Two-party-preferred,2025,2024-01-25,48
+2024-01-17,2024-02-03,31 January – 3 February 2024,Newspoll,ONP,First preference,2025,2024-01-25,7
+2024-01-17,2024-02-03,31 January – 3 February 2024,Newspoll,Oth,First preference,2025,2024-01-25,11
+2024-01-18,2024-02-07,30 January – 7 February 2024,RedBridge Group,ALP,First preference,2025,2024-01-28,33
+2024-01-18,2024-02-07,30 January – 7 February 2024,RedBridge Group,ALP,Two-party-preferred,2025,2024-01-28,51.2
+2024-01-18,2024-02-07,30 January – 7 February 2024,RedBridge Group,Grn,First preference,2025,2024-01-28,13
+2024-01-18,2024-02-07,30 January – 7 February 2024,RedBridge Group,Lib/Nat,First preference,2025,2024-01-28,38
+2024-01-18,2024-02-07,30 January – 7 February 2024,RedBridge Group,Lib/Nat,Two-party-preferred,2025,2024-01-28,48.8
+2024-01-18,2024-02-07,30 January – 7 February 2024,RedBridge Group,Oth,First preference,2025,2024-01-28,16
+2024-01-22,2024-01-28,22–28 January 2024,Roy Morgan,ALP,First preference,2025,2024-01-25,31
+2024-01-22,2024-01-28,22–28 January 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-01-25,50.5
+2024-01-22,2024-01-28,22–28 January 2024,Roy Morgan,Grn,First preference,2025,2024-01-25,13
+2024-01-22,2024-01-28,22–28 January 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-01-25,37.5
+2024-01-22,2024-01-28,22–28 January 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-01-25,49.5
+2024-01-22,2024-01-28,22–28 January 2024,Roy Morgan,ONP,First preference,2025,2024-01-25,5.5
+2024-01-22,2024-01-28,22–28 January 2024,Roy Morgan,Oth,First preference,2025,2024-01-25,13
+2024-01-24,2024-01-28,24–28 January 2024,Essential,ALP,First preference,2025,2024-01-26,32
+2024-01-24,2024-01-28,24–28 January 2024,Essential,ALP,Two-party-preferred,2025,2024-01-26,48
+2024-01-24,2024-01-28,24–28 January 2024,Essential,Grn,First preference,2025,2024-01-26,13
+2024-01-24,2024-01-28,24–28 January 2024,Essential,Lib/Nat,First preference,2025,2024-01-26,34
+2024-01-24,2024-01-28,24–28 January 2024,Essential,Lib/Nat,Two-party-preferred,2025,2024-01-26,46
+2024-01-24,2024-01-28,24–28 January 2024,Essential,ONP,First preference,2025,2024-01-26,7
+2024-01-24,2024-01-28,24–28 January 2024,Essential,Oth,First preference,2025,2024-01-26,7
+2024-01-24,2024-01-28,24–28 January 2024,Essential,UAP,First preference,2025,2024-01-26,2
+2024-01-24,2024-01-28,24–28 January 2024,Essential,Und,First preference,2025,2024-01-26,5
+2024-02-02,2024-02-07,2–7 February 2024,YouGov,ALP,First preference,2025,2024-02-04,32
+2024-02-02,2024-02-07,2–7 February 2024,YouGov,ALP,Two-party-preferred,2025,2024-02-04,52
+2024-02-02,2024-02-07,2–7 February 2024,YouGov,Grn,First preference,2025,2024-02-04,14
+2024-02-02,2024-02-07,2–7 February 2024,YouGov,Lib/Nat,First preference,2025,2024-02-04,36
+2024-02-02,2024-02-07,2–7 February 2024,YouGov,Lib/Nat,Two-party-preferred,2025,2024-02-04,48
+2024-02-02,2024-02-07,2–7 February 2024,YouGov,ONP,First preference,2025,2024-02-04,8
+2024-02-02,2024-02-07,2–7 February 2024,YouGov,Oth,First preference,2025,2024-02-04,10
+2024-02-05,2024-02-11,5–11 February 2024,Roy Morgan,ALP,First preference,2025,2024-02-08,34.5
+2024-02-05,2024-02-11,5–11 February 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-02-08,52
+2024-02-05,2024-02-11,5–11 February 2024,Roy Morgan,Grn,First preference,2025,2024-02-08,12
+2024-02-05,2024-02-11,5–11 February 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-02-08,37
+2024-02-05,2024-02-11,5–11 February 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-02-08,48
+2024-02-05,2024-02-11,5–11 February 2024,Roy Morgan,ONP,First preference,2025,2024-02-08,4.5
+2024-02-05,2024-02-11,5–11 February 2024,Roy Morgan,Oth,First preference,2025,2024-02-08,12
+2024-02-07,2024-02-11,7–11 February 2024,Essential,ALP,First preference,2025,2024-02-09,31
+2024-02-07,2024-02-11,7–11 February 2024,Essential,ALP,Two-party-preferred,2025,2024-02-09,50
+2024-02-07,2024-02-11,7–11 February 2024,Essential,Grn,First preference,2025,2024-02-09,14
+2024-02-07,2024-02-11,7–11 February 2024,Essential,Lib/Nat,First preference,2025,2024-02-09,34
+2024-02-07,2024-02-11,7–11 February 2024,Essential,Lib/Nat,Two-party-preferred,2025,2024-02-09,46
+2024-02-07,2024-02-11,7–11 February 2024,Essential,ONP,First preference,2025,2024-02-09,7
+2024-02-07,2024-02-11,7–11 February 2024,Essential,Oth,First preference,2025,2024-02-09,9
+2024-02-07,2024-02-11,7–11 February 2024,Essential,UAP,First preference,2025,2024-02-09,1
+2024-02-07,2024-02-11,7–11 February 2024,Essential,Und,First preference,2025,2024-02-09,5
+2024-02-12,2024-02-18,12–18 February 2024,Roy Morgan,ALP,First preference,2025,2024-02-15,34
+2024-02-12,2024-02-18,12–18 February 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-02-15,52.5
+2024-02-12,2024-02-18,12–18 February 2024,Roy Morgan,Grn,First preference,2025,2024-02-15,13
+2024-02-12,2024-02-18,12–18 February 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-02-15,37
+2024-02-12,2024-02-18,12–18 February 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-02-15,47.5
+2024-02-12,2024-02-18,12–18 February 2024,Roy Morgan,ONP,First preference,2025,2024-02-15,4
+2024-02-12,2024-02-18,12–18 February 2024,Roy Morgan,Oth,First preference,2025,2024-02-15,12
+2024-02-14,2024-03-03,26 February – 3 March 2024,Roy Morgan,ALP,First preference,2025,2024-02-23,34
+2024-02-14,2024-03-03,26 February – 3 March 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-02-23,53.5
+2024-02-14,2024-03-03,26 February – 3 March 2024,Roy Morgan,Grn,First preference,2025,2024-02-23,13.5
+2024-02-14,2024-03-03,26 February – 3 March 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-02-23,36.5
+2024-02-14,2024-03-03,26 February – 3 March 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-02-23,46.5
+2024-02-14,2024-03-03,26 February – 3 March 2024,Roy Morgan,ONP,First preference,2025,2024-02-23,3.5
+2024-02-14,2024-03-03,26 February – 3 March 2024,Roy Morgan,Oth,First preference,2025,2024-02-23,12.5
+2024-02-14,2024-03-05,24 February – 5 March 2024,YouGov,ALP,First preference,2025,2024-02-24,32
+2024-02-14,2024-03-05,24 February – 5 March 2024,YouGov,ALP,Two-party-preferred,2025,2024-02-24,52
+2024-02-14,2024-03-05,24 February – 5 March 2024,YouGov,Grn,First preference,2025,2024-02-24,15
+2024-02-14,2024-03-05,24 February – 5 March 2024,YouGov,Lib/Nat,First preference,2025,2024-02-24,37
+2024-02-14,2024-03-05,24 February – 5 March 2024,YouGov,Lib/Nat,Two-party-preferred,2025,2024-02-24,48
+2024-02-14,2024-03-05,24 February – 5 March 2024,YouGov,ONP,First preference,2025,2024-02-24,6
+2024-02-14,2024-03-05,24 February – 5 March 2024,YouGov,Oth,First preference,2025,2024-02-24,10
+2024-02-16,2024-02-18,16–18 February 2024,Freshwater Strategy,ALP,First preference,2025,2024-02-17,31
+2024-02-16,2024-02-18,16–18 February 2024,Freshwater Strategy,ALP,Two-party-preferred,2025,2024-02-17,51
+2024-02-16,2024-02-18,16–18 February 2024,Freshwater Strategy,Grn,First preference,2025,2024-02-17,14
+2024-02-16,2024-02-18,16–18 February 2024,Freshwater Strategy,Lib/Nat,First preference,2025,2024-02-17,38
+2024-02-16,2024-02-18,16–18 February 2024,Freshwater Strategy,Lib/Nat,Two-party-preferred,2025,2024-02-17,49
+2024-02-16,2024-02-18,16–18 February 2024,Freshwater Strategy,Oth,First preference,2025,2024-02-17,17
+2024-02-19,2024-02-23,19–23 February 2024,Newspoll,ALP,First preference,2025,2024-02-21,33
+2024-02-19,2024-02-23,19–23 February 2024,Newspoll,ALP,Two-party-preferred,2025,2024-02-21,52
+2024-02-19,2024-02-23,19–23 February 2024,Newspoll,Grn,First preference,2025,2024-02-21,12
+2024-02-19,2024-02-23,19–23 February 2024,Newspoll,Lib/Nat,First preference,2025,2024-02-21,36
+2024-02-19,2024-02-23,19–23 February 2024,Newspoll,Lib/Nat,Two-party-preferred,2025,2024-02-21,48
+2024-02-19,2024-02-23,19–23 February 2024,Newspoll,ONP,First preference,2025,2024-02-21,6
+2024-02-19,2024-02-23,19–23 February 2024,Newspoll,Oth,First preference,2025,2024-02-21,13
+2024-02-19,2024-02-25,19–25 February 2024,Roy Morgan,ALP,First preference,2025,2024-02-22,31.5
+2024-02-19,2024-02-25,19–25 February 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-02-22,50
+2024-02-19,2024-02-25,19–25 February 2024,Roy Morgan,Grn,First preference,2025,2024-02-22,12
+2024-02-19,2024-02-25,19–25 February 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-02-22,38
+2024-02-19,2024-02-25,19–25 February 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-02-22,50
+2024-02-19,2024-02-25,19–25 February 2024,Roy Morgan,ONP,First preference,2025,2024-02-22,5
+2024-02-19,2024-02-25,19–25 February 2024,Roy Morgan,Oth,First preference,2025,2024-02-22,13.5
+2024-02-21,2024-02-24,21–24 February 2024,Resolve Strategic,ALP,First preference,2025,2024-02-22,34
+2024-02-21,2024-02-24,21–24 February 2024,Resolve Strategic,ALP,Two-party-preferred,2025,2024-02-22,52
+2024-02-21,2024-02-24,21–24 February 2024,Resolve Strategic,Grn,First preference,2025,2024-02-22,11
+2024-02-21,2024-02-24,21–24 February 2024,Resolve Strategic,Lib/Nat,First preference,2025,2024-02-22,37
+2024-02-21,2024-02-24,21–24 February 2024,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2024-02-22,48
+2024-02-21,2024-02-24,21–24 February 2024,Resolve Strategic,ONP,First preference,2025,2024-02-22,6
+2024-02-21,2024-02-24,21–24 February 2024,Resolve Strategic,Oth,First preference,2025,2024-02-22,13
+2024-02-21,2024-02-24,21–24 February 2024,Resolve Strategic,UAP,First preference,2025,2024-02-22,1
+2024-02-21,2024-02-25,21–25 February 2024,Essential,ALP,First preference,2025,2024-02-23,30
+2024-02-21,2024-02-25,21–25 February 2024,Essential,ALP,Two-party-preferred,2025,2024-02-23,47
+2024-02-21,2024-02-25,21–25 February 2024,Essential,Grn,First preference,2025,2024-02-23,13
+2024-02-21,2024-02-25,21–25 February 2024,Essential,Lib/Nat,First preference,2025,2024-02-23,35
+2024-02-21,2024-02-25,21–25 February 2024,Essential,Lib/Nat,Two-party-preferred,2025,2024-02-23,48
+2024-02-21,2024-02-25,21–25 February 2024,Essential,ONP,First preference,2025,2024-02-23,7
+2024-02-21,2024-02-25,21–25 February 2024,Essential,Oth,First preference,2025,2024-02-23,8
+2024-02-21,2024-02-25,21–25 February 2024,Essential,UAP,First preference,2025,2024-02-23,2
+2024-02-21,2024-02-25,21–25 February 2024,Essential,Und,First preference,2025,2024-02-23,4
+2024-03-04,2024-03-10,4–10 March 2024,Roy Morgan,ALP,First preference,2025,2024-03-07,32
+2024-03-04,2024-03-10,4–10 March 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-03-07,51.5
+2024-03-04,2024-03-10,4–10 March 2024,Roy Morgan,Grn,First preference,2025,2024-03-07,13
+2024-03-04,2024-03-10,4–10 March 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-03-07,38
+2024-03-04,2024-03-10,4–10 March 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-03-07,48.5
+2024-03-04,2024-03-10,4–10 March 2024,Roy Morgan,ONP,First preference,2025,2024-03-07,4
+2024-03-04,2024-03-10,4–10 March 2024,Roy Morgan,Oth,First preference,2025,2024-03-07,13
+2024-03-05,2024-03-09,5–9 March 2024,Essential,ALP,First preference,2025,2024-03-07,32
+2024-03-05,2024-03-09,5–9 March 2024,Essential,ALP,Two-party-preferred,2025,2024-03-07,48
+2024-03-05,2024-03-09,5–9 March 2024,Essential,Grn,First preference,2025,2024-03-07,11
+2024-03-05,2024-03-09,5–9 March 2024,Essential,Lib/Nat,First preference,2025,2024-03-07,35
+2024-03-05,2024-03-09,5–9 March 2024,Essential,Lib/Nat,Two-party-preferred,2025,2024-03-07,47
+2024-03-05,2024-03-09,5–9 March 2024,Essential,ONP,First preference,2025,2024-03-07,8
+2024-03-05,2024-03-09,5–9 March 2024,Essential,Oth,First preference,2025,2024-03-07,8
+2024-03-05,2024-03-09,5–9 March 2024,Essential,UAP,First preference,2025,2024-03-07,2
+2024-03-05,2024-03-09,5–9 March 2024,Essential,Und,First preference,2025,2024-03-07,5
+2024-03-08,2024-03-10,8–10 March 2024,Freshwater Strategy,ALP,First preference,2025,2024-03-09,31
+2024-03-08,2024-03-10,8–10 March 2024,Freshwater Strategy,ALP,Two-party-preferred,2025,2024-03-09,51
+2024-03-08,2024-03-10,8–10 March 2024,Freshwater Strategy,Grn,First preference,2025,2024-03-09,14
+2024-03-08,2024-03-10,8–10 March 2024,Freshwater Strategy,Lib/Nat,First preference,2025,2024-03-09,39
+2024-03-08,2024-03-10,8–10 March 2024,Freshwater Strategy,Lib/Nat,Two-party-preferred,2025,2024-03-09,49
+2024-03-08,2024-03-10,8–10 March 2024,Freshwater Strategy,Oth,First preference,2025,2024-03-09,16
+2024-03-11,2024-03-17,11–17 March 2024,Roy Morgan,ALP,First preference,2025,2024-03-14,31.5
+2024-03-11,2024-03-17,11–17 March 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-03-14,51.5
+2024-03-11,2024-03-17,11–17 March 2024,Roy Morgan,Grn,First preference,2025,2024-03-14,12.5
+2024-03-11,2024-03-17,11–17 March 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-03-14,37
+2024-03-11,2024-03-17,11–17 March 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-03-14,48.5
+2024-03-11,2024-03-17,11–17 March 2024,Roy Morgan,ONP,First preference,2025,2024-03-14,5.5
+2024-03-11,2024-03-17,11–17 March 2024,Roy Morgan,Oth,First preference,2025,2024-03-14,13.5
+2024-03-18,2024-03-22,18–22 March 2024,Newspoll,ALP,First preference,2025,2024-03-20,32
+2024-03-18,2024-03-22,18–22 March 2024,Newspoll,ALP,Two-party-preferred,2025,2024-03-20,51
+2024-03-18,2024-03-22,18–22 March 2024,Newspoll,Grn,First preference,2025,2024-03-20,13
+2024-03-18,2024-03-22,18–22 March 2024,Newspoll,Lib/Nat,First preference,2025,2024-03-20,37
+2024-03-18,2024-03-22,18–22 March 2024,Newspoll,Lib/Nat,Two-party-preferred,2025,2024-03-20,49
+2024-03-18,2024-03-22,18–22 March 2024,Newspoll,ONP,First preference,2025,2024-03-20,7
+2024-03-18,2024-03-22,18–22 March 2024,Newspoll,Oth,First preference,2025,2024-03-20,11
+2024-03-18,2024-03-24,18–24 March 2024,Roy Morgan,ALP,First preference,2025,2024-03-21,31.5
+2024-03-18,2024-03-24,18–24 March 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-03-21,50
+2024-03-18,2024-03-24,18–24 March 2024,Roy Morgan,Grn,First preference,2025,2024-03-21,14
+2024-03-18,2024-03-24,18–24 March 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-03-21,38
+2024-03-18,2024-03-24,18–24 March 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-03-21,50
+2024-03-18,2024-03-24,18–24 March 2024,Roy Morgan,ONP,First preference,2025,2024-03-21,4.5
+2024-03-18,2024-03-24,18–24 March 2024,Roy Morgan,Oth,First preference,2025,2024-03-21,12
+2024-03-20,2024-03-24,20–24 March 2024,Essential,ALP,First preference,2025,2024-03-22,29
+2024-03-20,2024-03-24,20–24 March 2024,Essential,ALP,Two-party-preferred,2025,2024-03-22,44
+2024-03-20,2024-03-24,20–24 March 2024,Essential,Grn,First preference,2025,2024-03-22,11
+2024-03-20,2024-03-24,20–24 March 2024,Essential,Lib/Nat,First preference,2025,2024-03-22,36
+2024-03-20,2024-03-24,20–24 March 2024,Essential,Lib/Nat,Two-party-preferred,2025,2024-03-22,50
+2024-03-20,2024-03-24,20–24 March 2024,Essential,ONP,First preference,2025,2024-03-22,7
+2024-03-20,2024-03-24,20–24 March 2024,Essential,Oth,First preference,2025,2024-03-22,7
+2024-03-20,2024-03-24,20–24 March 2024,Essential,UAP,First preference,2025,2024-03-22,3
+2024-03-20,2024-03-24,20–24 March 2024,Essential,Und,First preference,2025,2024-03-22,6
+2024-03-21,2024-03-24,21–24 March 2024,Resolve Strategic,ALP,First preference,2025,2024-03-22,32
+2024-03-21,2024-03-24,21–24 March 2024,Resolve Strategic,ALP,Two-party-preferred,2025,2024-03-22,53
+2024-03-21,2024-03-24,21–24 March 2024,Resolve Strategic,Grn,First preference,2025,2024-03-22,13
+2024-03-21,2024-03-24,21–24 March 2024,Resolve Strategic,Lib/Nat,First preference,2025,2024-03-22,35
+2024-03-21,2024-03-24,21–24 March 2024,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2024-03-22,47
+2024-03-21,2024-03-24,21–24 March 2024,Resolve Strategic,ONP,First preference,2025,2024-03-22,5
+2024-03-21,2024-03-24,21–24 March 2024,Resolve Strategic,Oth,First preference,2025,2024-03-22,13
+2024-03-21,2024-03-24,21–24 March 2024,Resolve Strategic,UAP,First preference,2025,2024-03-22,2
+2024-03-22,2024-03-27,22–27 March 2024,YouGov,ALP,First preference,2025,2024-03-24,32
+2024-03-22,2024-03-27,22–27 March 2024,YouGov,ALP,Two-party-preferred,2025,2024-03-24,51
+2024-03-22,2024-03-27,22–27 March 2024,YouGov,Grn,First preference,2025,2024-03-24,13
+2024-03-22,2024-03-27,22–27 March 2024,YouGov,Lib/Nat,First preference,2025,2024-03-24,38
+2024-03-22,2024-03-27,22–27 March 2024,YouGov,Lib/Nat,Two-party-preferred,2025,2024-03-24,49
+2024-03-22,2024-03-27,22–27 March 2024,YouGov,ONP,First preference,2025,2024-03-24,7
+2024-03-22,2024-03-27,22–27 March 2024,YouGov,Oth,First preference,2025,2024-03-24,10
+2024-03-25,2024-03-31,25–31 March 2024,Roy Morgan,ALP,First preference,2025,2024-03-28,30
+2024-03-25,2024-03-31,25–31 March 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-03-28,51
+2024-03-25,2024-03-31,25–31 March 2024,Roy Morgan,Grn,First preference,2025,2024-03-28,15.5
+2024-03-25,2024-03-31,25–31 March 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-03-28,37.5
+2024-03-25,2024-03-31,25–31 March 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-03-28,49
+2024-03-25,2024-03-31,25–31 March 2024,Roy Morgan,ONP,First preference,2025,2024-03-28,3.5
+2024-03-25,2024-03-31,25–31 March 2024,Roy Morgan,Oth,First preference,2025,2024-03-28,13.5
+2024-04-01,2024-04-07,1–7 April 2024,Roy Morgan,ALP,First preference,2025,2024-04-04,29.5
+2024-04-01,2024-04-07,1–7 April 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-04-04,49.5
+2024-04-01,2024-04-07,1–7 April 2024,Roy Morgan,Grn,First preference,2025,2024-04-04,13.5
+2024-04-01,2024-04-07,1–7 April 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-04-04,38
+2024-04-01,2024-04-07,1–7 April 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-04-04,50.5
+2024-04-01,2024-04-07,1–7 April 2024,Roy Morgan,ONP,First preference,2025,2024-04-04,6
+2024-04-01,2024-04-07,1–7 April 2024,Roy Morgan,Oth,First preference,2025,2024-04-04,13
+2024-04-03,2024-04-07,3–7 April 2024,Essential,ALP,First preference,2025,2024-04-05,29
+2024-04-03,2024-04-07,3–7 April 2024,Essential,ALP,Two-party-preferred,2025,2024-04-05,48
+2024-04-03,2024-04-07,3–7 April 2024,Essential,Grn,First preference,2025,2024-04-05,14
+2024-04-03,2024-04-07,3–7 April 2024,Essential,Lib/Nat,First preference,2025,2024-04-05,34
+2024-04-03,2024-04-07,3–7 April 2024,Essential,Lib/Nat,Two-party-preferred,2025,2024-04-05,46
+2024-04-03,2024-04-07,3–7 April 2024,Essential,ONP,First preference,2025,2024-04-05,6
+2024-04-03,2024-04-07,3–7 April 2024,Essential,Oth,First preference,2025,2024-04-05,8
+2024-04-03,2024-04-07,3–7 April 2024,Essential,UAP,First preference,2025,2024-04-05,2
+2024-04-03,2024-04-07,3–7 April 2024,Essential,Und,First preference,2025,2024-04-05,6
+2024-04-08,2024-04-14,8–14 April 2024,Roy Morgan,ALP,First preference,2025,2024-04-11,30
+2024-04-08,2024-04-14,8–14 April 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-04-11,49
+2024-04-08,2024-04-14,8–14 April 2024,Roy Morgan,Grn,First preference,2025,2024-04-11,13.5
+2024-04-08,2024-04-14,8–14 April 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-04-11,38.5
+2024-04-08,2024-04-14,8–14 April 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-04-11,51
+2024-04-08,2024-04-14,8–14 April 2024,Roy Morgan,ONP,First preference,2025,2024-04-11,5.5
+2024-04-08,2024-04-14,8–14 April 2024,Roy Morgan,Oth,First preference,2025,2024-04-11,12.5
+2024-04-12,2024-04-14,12–14 April 2024,Freshwater Strategy,ALP,First preference,2025,2024-04-13,31
+2024-04-12,2024-04-14,12–14 April 2024,Freshwater Strategy,ALP,Two-party-preferred,2025,2024-04-13,50
+2024-04-12,2024-04-14,12–14 April 2024,Freshwater Strategy,Grn,First preference,2025,2024-04-13,13
+2024-04-12,2024-04-14,12–14 April 2024,Freshwater Strategy,Lib/Nat,First preference,2025,2024-04-13,40
+2024-04-12,2024-04-14,12–14 April 2024,Freshwater Strategy,Lib/Nat,Two-party-preferred,2025,2024-04-13,50
+2024-04-12,2024-04-14,12–14 April 2024,Freshwater Strategy,Oth,First preference,2025,2024-04-13,16
+2024-04-12,2024-04-21,12–21 April 2024,RedBridge Group,ALP,First preference,2025,2024-04-16,33
+2024-04-12,2024-04-21,12–21 April 2024,RedBridge Group,ALP,Two-party-preferred,2025,2024-04-16,52
+2024-04-12,2024-04-21,12–21 April 2024,RedBridge Group,Grn,First preference,2025,2024-04-16,12
+2024-04-12,2024-04-21,12–21 April 2024,RedBridge Group,Lib/Nat,First preference,2025,2024-04-16,37
+2024-04-12,2024-04-21,12–21 April 2024,RedBridge Group,Lib/Nat,Two-party-preferred,2025,2024-04-16,48
+2024-04-12,2024-04-21,12–21 April 2024,RedBridge Group,ONP,First preference,2025,2024-04-16,7
+2024-04-12,2024-04-21,12–21 April 2024,RedBridge Group,Oth,First preference,2025,2024-04-16,11
+2024-04-15,2024-04-18,15–18 April 2024,Newspoll,ALP,First preference,2025,2024-04-16,33
+2024-04-15,2024-04-18,15–18 April 2024,Newspoll,ALP,Two-party-preferred,2025,2024-04-16,51
+2024-04-15,2024-04-18,15–18 April 2024,Newspoll,Grn,First preference,2025,2024-04-16,12
+2024-04-15,2024-04-18,15–18 April 2024,Newspoll,Lib/Nat,First preference,2025,2024-04-16,38
+2024-04-15,2024-04-18,15–18 April 2024,Newspoll,Lib/Nat,Two-party-preferred,2025,2024-04-16,49
+2024-04-15,2024-04-18,15–18 April 2024,Newspoll,ONP,First preference,2025,2024-04-16,7
+2024-04-15,2024-04-18,15–18 April 2024,Newspoll,Oth,First preference,2025,2024-04-16,10
+2024-04-15,2024-04-21,15–21 April 2024,Roy Morgan,ALP,First preference,2025,2024-04-18,30.5
+2024-04-15,2024-04-21,15–21 April 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-04-18,52
+2024-04-15,2024-04-21,15–21 April 2024,Roy Morgan,Grn,First preference,2025,2024-04-18,16
+2024-04-15,2024-04-21,15–21 April 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-04-18,35.5
+2024-04-15,2024-04-21,15–21 April 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-04-18,48
+2024-04-15,2024-04-21,15–21 April 2024,Roy Morgan,ONP,First preference,2025,2024-04-18,5.5
+2024-04-15,2024-04-21,15–21 April 2024,Roy Morgan,Oth,First preference,2025,2024-04-18,12.5
+2024-04-17,2024-04-21,17–21 April 2024,Essential,ALP,First preference,2025,2024-04-19,31
+2024-04-17,2024-04-21,17–21 April 2024,Essential,ALP,Two-party-preferred,2025,2024-04-19,47
+2024-04-17,2024-04-21,17–21 April 2024,Essential,Grn,First preference,2025,2024-04-19,11
+2024-04-17,2024-04-21,17–21 April 2024,Essential,Lib/Nat,First preference,2025,2024-04-19,35
+2024-04-17,2024-04-21,17–21 April 2024,Essential,Lib/Nat,Two-party-preferred,2025,2024-04-19,49
+2024-04-17,2024-04-21,17–21 April 2024,Essential,ONP,First preference,2025,2024-04-19,9
+2024-04-17,2024-04-21,17–21 April 2024,Essential,Oth,First preference,2025,2024-04-19,9
+2024-04-17,2024-04-21,17–21 April 2024,Essential,UAP,First preference,2025,2024-04-19,1
+2024-04-17,2024-04-21,17–21 April 2024,Essential,Und,First preference,2025,2024-04-19,4
+2024-04-17,2024-04-21,17–21 April 2024,Resolve Strategic,ALP,First preference,2025,2024-04-19,30
+2024-04-17,2024-04-21,17–21 April 2024,Resolve Strategic,ALP,Two-party-preferred,2025,2024-04-19,50
+2024-04-17,2024-04-21,17–21 April 2024,Resolve Strategic,Grn,First preference,2025,2024-04-19,13
+2024-04-17,2024-04-21,17–21 April 2024,Resolve Strategic,Lib/Nat,First preference,2025,2024-04-19,36
+2024-04-17,2024-04-21,17–21 April 2024,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2024-04-19,50
+2024-04-17,2024-04-21,17–21 April 2024,Resolve Strategic,ONP,First preference,2025,2024-04-19,5
+2024-04-17,2024-04-21,17–21 April 2024,Resolve Strategic,Oth,First preference,2025,2024-04-19,14
+2024-04-17,2024-04-21,17–21 April 2024,Resolve Strategic,UAP,First preference,2025,2024-04-19,2
+2024-04-17,2024-05-05,29 April – 5 May 2024,Roy Morgan,ALP,First preference,2025,2024-04-26,30
+2024-04-17,2024-05-05,29 April – 5 May 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-04-26,52
+2024-04-17,2024-05-05,29 April – 5 May 2024,Roy Morgan,Grn,First preference,2025,2024-04-26,13
+2024-04-17,2024-05-05,29 April – 5 May 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-04-26,37
+2024-04-17,2024-05-05,29 April – 5 May 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-04-26,48
+2024-04-17,2024-05-05,29 April – 5 May 2024,Roy Morgan,ONP,First preference,2025,2024-04-26,6
+2024-04-17,2024-05-05,29 April – 5 May 2024,Roy Morgan,Oth,First preference,2025,2024-04-26,14
+2024-04-19,2024-04-23,19–23 April 2024,YouGov,ALP,First preference,2025,2024-04-21,33
+2024-04-19,2024-04-23,19–23 April 2024,YouGov,ALP,Two-party-preferred,2025,2024-04-21,52
+2024-04-19,2024-04-23,19–23 April 2024,YouGov,Grn,First preference,2025,2024-04-21,13
+2024-04-19,2024-04-23,19–23 April 2024,YouGov,Lib/Nat,First preference,2025,2024-04-21,36
+2024-04-19,2024-04-23,19–23 April 2024,YouGov,Lib/Nat,Two-party-preferred,2025,2024-04-21,48
+2024-04-19,2024-04-23,19–23 April 2024,YouGov,ONP,First preference,2025,2024-04-21,8
+2024-04-19,2024-04-23,19–23 April 2024,YouGov,Oth,First preference,2025,2024-04-21,10
+2024-04-22,2024-04-28,22–28 April 2024,Roy Morgan,ALP,First preference,2025,2024-04-25,31.5
+2024-04-22,2024-04-28,22–28 April 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-04-25,52
+2024-04-22,2024-04-28,22–28 April 2024,Roy Morgan,Grn,First preference,2025,2024-04-25,14
+2024-04-22,2024-04-28,22–28 April 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-04-25,36.5
+2024-04-22,2024-04-28,22–28 April 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-04-25,48
+2024-04-22,2024-04-28,22–28 April 2024,Roy Morgan,ONP,First preference,2025,2024-04-25,5.5
+2024-04-22,2024-04-28,22–28 April 2024,Roy Morgan,Oth,First preference,2025,2024-04-25,12.5
+2024-05-01,2024-05-05,1–5 May 2024,Essential,ALP,First preference,2025,2024-05-03,31
+2024-05-01,2024-05-05,1–5 May 2024,Essential,ALP,Two-party-preferred,2025,2024-05-03,46
+2024-05-01,2024-05-05,1–5 May 2024,Essential,Grn,First preference,2025,2024-05-03,13
+2024-05-01,2024-05-05,1–5 May 2024,Essential,Lib/Nat,First preference,2025,2024-05-03,34
+2024-05-01,2024-05-05,1–5 May 2024,Essential,Lib/Nat,Two-party-preferred,2025,2024-05-03,47
+2024-05-01,2024-05-05,1–5 May 2024,Essential,ONP,First preference,2025,2024-05-03,7
+2024-05-01,2024-05-05,1–5 May 2024,Essential,Oth,First preference,2025,2024-05-03,7
+2024-05-01,2024-05-05,1–5 May 2024,Essential,UAP,First preference,2025,2024-05-03,1
+2024-05-01,2024-05-05,1–5 May 2024,Essential,Und,First preference,2025,2024-05-03,7
+2024-05-06,2024-05-12,6–12 May 2024,Roy Morgan,ALP,First preference,2025,2024-05-09,32
+2024-05-06,2024-05-12,6–12 May 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-05-09,52
+2024-05-06,2024-05-12,6–12 May 2024,Roy Morgan,Grn,First preference,2025,2024-05-09,13.5
+2024-05-06,2024-05-12,6–12 May 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-05-09,37
+2024-05-06,2024-05-12,6–12 May 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-05-09,48
+2024-05-06,2024-05-12,6–12 May 2024,Roy Morgan,ONP,First preference,2025,2024-05-09,5.5
+2024-05-06,2024-05-12,6–12 May 2024,Roy Morgan,Oth,First preference,2025,2024-05-09,12
+2024-05-10,2024-05-14,10–14 May 2024,YouGov,ALP,First preference,2025,2024-05-12,30
+2024-05-10,2024-05-14,10–14 May 2024,YouGov,ALP,Two-party-preferred,2025,2024-05-12,50
+2024-05-10,2024-05-14,10–14 May 2024,YouGov,Grn,First preference,2025,2024-05-12,13
+2024-05-10,2024-05-14,10–14 May 2024,YouGov,Lib/Nat,First preference,2025,2024-05-12,38
+2024-05-10,2024-05-14,10–14 May 2024,YouGov,Lib/Nat,Two-party-preferred,2025,2024-05-12,50
+2024-05-10,2024-05-14,10–14 May 2024,YouGov,ONP,First preference,2025,2024-05-12,8
+2024-05-10,2024-05-14,10–14 May 2024,YouGov,Oth,First preference,2025,2024-05-12,11
+2024-05-13,2024-05-19,13–19 May 2024,Roy Morgan,ALP,First preference,2025,2024-05-16,30.5
+2024-05-13,2024-05-19,13–19 May 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-05-16,50.5
+2024-05-13,2024-05-19,13–19 May 2024,Roy Morgan,Grn,First preference,2025,2024-05-16,14.5
+2024-05-13,2024-05-19,13–19 May 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-05-16,37
+2024-05-13,2024-05-19,13–19 May 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-05-16,49.5
+2024-05-13,2024-05-19,13–19 May 2024,Roy Morgan,ONP,First preference,2025,2024-05-16,5.5
+2024-05-13,2024-05-19,13–19 May 2024,Roy Morgan,Oth,First preference,2025,2024-05-16,12.5
+2024-05-14,2024-06-02,27 May – 2 June 2024,Roy Morgan,ALP,First preference,2025,2024-05-23,31
+2024-05-14,2024-06-02,27 May – 2 June 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-05-23,52
+2024-05-14,2024-06-02,27 May – 2 June 2024,Roy Morgan,Grn,First preference,2025,2024-05-23,14
+2024-05-14,2024-06-02,27 May – 2 June 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-05-23,36
+2024-05-14,2024-06-02,27 May – 2 June 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-05-23,48
+2024-05-14,2024-06-02,27 May – 2 June 2024,Roy Morgan,ONP,First preference,2025,2024-05-23,4.5
+2024-05-14,2024-06-02,27 May – 2 June 2024,Roy Morgan,Oth,First preference,2025,2024-05-23,14.5
+2024-05-15,2024-05-19,15–19 May 2024,Resolve Strategic,ALP,First preference,2025,2024-05-17,29
+2024-05-15,2024-05-19,15–19 May 2024,Resolve Strategic,ALP,Two-party-preferred,2025,2024-05-17,50
+2024-05-15,2024-05-19,15–19 May 2024,Resolve Strategic,Grn,First preference,2025,2024-05-17,12
+2024-05-15,2024-05-19,15–19 May 2024,Resolve Strategic,Lib/Nat,First preference,2025,2024-05-17,36
+2024-05-15,2024-05-19,15–19 May 2024,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2024-05-17,50
+2024-05-15,2024-05-19,15–19 May 2024,Resolve Strategic,ONP,First preference,2025,2024-05-17,7
+2024-05-15,2024-05-19,15–19 May 2024,Resolve Strategic,Oth,First preference,2025,2024-05-17,14
+2024-05-15,2024-05-19,15–19 May 2024,Resolve Strategic,UAP,First preference,2025,2024-05-17,2
+2024-05-16,2024-05-18,16–18 May 2024,Newspoll,ALP,First preference,2025,2024-05-17,34
+2024-05-16,2024-05-18,16–18 May 2024,Newspoll,ALP,Two-party-preferred,2025,2024-05-17,52
+2024-05-16,2024-05-18,16–18 May 2024,Newspoll,Grn,First preference,2025,2024-05-17,13
+2024-05-16,2024-05-18,16–18 May 2024,Newspoll,Lib/Nat,First preference,2025,2024-05-17,37
+2024-05-16,2024-05-18,16–18 May 2024,Newspoll,Lib/Nat,Two-party-preferred,2025,2024-05-17,48
+2024-05-16,2024-05-18,16–18 May 2024,Newspoll,ONP,First preference,2025,2024-05-17,7
+2024-05-16,2024-05-18,16–18 May 2024,Newspoll,Oth,First preference,2025,2024-05-17,9
+2024-05-16,2024-05-19,16–19 May 2024,Essential,ALP,First preference,2025,2024-05-17,31
+2024-05-16,2024-05-19,16–19 May 2024,Essential,ALP,Two-party-preferred,2025,2024-05-17,46
+2024-05-16,2024-05-19,16–19 May 2024,Essential,Grn,First preference,2025,2024-05-17,10
+2024-05-16,2024-05-19,16–19 May 2024,Essential,Lib/Nat,First preference,2025,2024-05-17,34
+2024-05-16,2024-05-19,16–19 May 2024,Essential,Lib/Nat,Two-party-preferred,2025,2024-05-17,47
+2024-05-16,2024-05-19,16–19 May 2024,Essential,ONP,First preference,2025,2024-05-17,8
+2024-05-16,2024-05-19,16–19 May 2024,Essential,Oth,First preference,2025,2024-05-17,8
+2024-05-16,2024-05-19,16–19 May 2024,Essential,UAP,First preference,2025,2024-05-17,1
+2024-05-16,2024-05-19,16–19 May 2024,Essential,Und,First preference,2025,2024-05-17,6
+2024-05-16,2024-06-02,29 May – 2 June 2024,Essential,ALP,First preference,2025,2024-05-24,32
+2024-05-16,2024-06-02,29 May – 2 June 2024,Essential,ALP,Two-party-preferred,2025,2024-05-24,48
+2024-05-16,2024-06-02,29 May – 2 June 2024,Essential,Grn,First preference,2025,2024-05-24,13
+2024-05-16,2024-06-02,29 May – 2 June 2024,Essential,Lib/Nat,First preference,2025,2024-05-24,36
+2024-05-16,2024-06-02,29 May – 2 June 2024,Essential,Lib/Nat,Two-party-preferred,2025,2024-05-24,48
+2024-05-16,2024-06-02,29 May – 2 June 2024,Essential,ONP,First preference,2025,2024-05-24,5
+2024-05-16,2024-06-02,29 May – 2 June 2024,Essential,Oth,First preference,2025,2024-05-24,8
+2024-05-16,2024-06-02,29 May – 2 June 2024,Essential,UAP,First preference,2025,2024-05-24,3
+2024-05-16,2024-06-02,29 May – 2 June 2024,Essential,Und,First preference,2025,2024-05-24,4
+2024-05-17,2024-05-19,17–19 May 2024,Freshwater Strategy,ALP,First preference,2025,2024-05-18,32
+2024-05-17,2024-05-19,17–19 May 2024,Freshwater Strategy,ALP,Two-party-preferred,2025,2024-05-18,50
+2024-05-17,2024-05-19,17–19 May 2024,Freshwater Strategy,Grn,First preference,2025,2024-05-18,14
+2024-05-17,2024-05-19,17–19 May 2024,Freshwater Strategy,Lib/Nat,First preference,2025,2024-05-18,40
+2024-05-17,2024-05-19,17–19 May 2024,Freshwater Strategy,Lib/Nat,Two-party-preferred,2025,2024-05-18,50
+2024-05-17,2024-05-19,17–19 May 2024,Freshwater Strategy,Oth,First preference,2025,2024-05-18,14
+2024-05-18,2024-06-04,31 May – 4 June 2024,YouGov,ALP,First preference,2025,2024-05-26,30
+2024-05-18,2024-06-04,31 May – 4 June 2024,YouGov,ALP,Two-party-preferred,2025,2024-05-26,50
+2024-05-18,2024-06-04,31 May – 4 June 2024,YouGov,Grn,First preference,2025,2024-05-26,14
+2024-05-18,2024-06-04,31 May – 4 June 2024,YouGov,Lib/Nat,First preference,2025,2024-05-26,38
+2024-05-18,2024-06-04,31 May – 4 June 2024,YouGov,Lib/Nat,Two-party-preferred,2025,2024-05-26,50
+2024-05-18,2024-06-04,31 May – 4 June 2024,YouGov,ONP,First preference,2025,2024-05-26,8
+2024-05-18,2024-06-04,31 May – 4 June 2024,YouGov,Oth,First preference,2025,2024-05-26,10
+2024-05-20,2024-05-26,20–26 May 2024,Roy Morgan,ALP,First preference,2025,2024-05-23,28.5
+2024-05-20,2024-05-26,20–26 May 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-05-23,48.5
+2024-05-20,2024-05-26,20–26 May 2024,Roy Morgan,Grn,First preference,2025,2024-05-23,15
+2024-05-20,2024-05-26,20–26 May 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-05-23,37
+2024-05-20,2024-05-26,20–26 May 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-05-23,51.5
+2024-05-20,2024-05-26,20–26 May 2024,Roy Morgan,ONP,First preference,2025,2024-05-23,6
+2024-05-20,2024-05-26,20–26 May 2024,Roy Morgan,Oth,First preference,2025,2024-05-23,13.5
+2024-06-03,2024-06-07,3–7 June 2024,Newspoll,ALP,First preference,2025,2024-06-05,33
+2024-06-03,2024-06-07,3–7 June 2024,Newspoll,ALP,Two-party-preferred,2025,2024-06-05,50
+2024-06-03,2024-06-07,3–7 June 2024,Newspoll,Grn,First preference,2025,2024-06-05,11
+2024-06-03,2024-06-07,3–7 June 2024,Newspoll,Lib/Nat,First preference,2025,2024-06-05,39
+2024-06-03,2024-06-07,3–7 June 2024,Newspoll,Lib/Nat,Two-party-preferred,2025,2024-06-05,50
+2024-06-03,2024-06-07,3–7 June 2024,Newspoll,ONP,First preference,2025,2024-06-05,7
+2024-06-03,2024-06-07,3–7 June 2024,Newspoll,Oth,First preference,2025,2024-06-05,10
+2024-06-03,2024-06-09,3–9 June 2024,Roy Morgan,ALP,First preference,2025,2024-06-06,30.5
+2024-06-03,2024-06-09,3–9 June 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-06-06,53.5
+2024-06-03,2024-06-09,3–9 June 2024,Roy Morgan,Grn,First preference,2025,2024-06-06,15.5
+2024-06-03,2024-06-09,3–9 June 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-06-06,35
+2024-06-03,2024-06-09,3–9 June 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-06-06,46.5
+2024-06-03,2024-06-09,3–9 June 2024,Roy Morgan,ONP,First preference,2025,2024-06-06,5.5
+2024-06-03,2024-06-09,3–9 June 2024,Roy Morgan,Oth,First preference,2025,2024-06-06,13.5
+2024-06-10,2024-06-16,10–16 June 2024,Roy Morgan,ALP,First preference,2025,2024-06-13,29.5
+2024-06-10,2024-06-16,10–16 June 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-06-13,50
+2024-06-10,2024-06-16,10–16 June 2024,Roy Morgan,Grn,First preference,2025,2024-06-13,13.5
+2024-06-10,2024-06-16,10–16 June 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-06-13,38
+2024-06-10,2024-06-16,10–16 June 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-06-13,50
+2024-06-10,2024-06-16,10–16 June 2024,Roy Morgan,ONP,First preference,2025,2024-06-13,5
+2024-06-10,2024-06-16,10–16 June 2024,Roy Morgan,Oth,First preference,2025,2024-06-13,14
+2024-06-11,2024-06-15,11–15 June 2024,Resolve Strategic,ALP,First preference,2025,2024-06-13,28
+2024-06-11,2024-06-15,11–15 June 2024,Resolve Strategic,ALP,Two-party-preferred,2025,2024-06-13,51
+2024-06-11,2024-06-15,11–15 June 2024,Resolve Strategic,Grn,First preference,2025,2024-06-13,14
+2024-06-11,2024-06-15,11–15 June 2024,Resolve Strategic,Lib/Nat,First preference,2025,2024-06-13,36
+2024-06-11,2024-06-15,11–15 June 2024,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2024-06-13,49
+2024-06-11,2024-06-15,11–15 June 2024,Resolve Strategic,ONP,First preference,2025,2024-06-13,6
+2024-06-11,2024-06-15,11–15 June 2024,Resolve Strategic,Oth,First preference,2025,2024-06-13,15
+2024-06-11,2024-06-15,11–15 June 2024,Resolve Strategic,UAP,First preference,2025,2024-06-13,1
+2024-06-12,2024-06-16,12–16 June 2024,Essential,ALP,First preference,2025,2024-06-14,31
+2024-06-12,2024-06-16,12–16 June 2024,Essential,ALP,Two-party-preferred,2025,2024-06-14,48
+2024-06-12,2024-06-16,12–16 June 2024,Essential,Grn,First preference,2025,2024-06-14,13
+2024-06-12,2024-06-16,12–16 June 2024,Essential,Lib/Nat,First preference,2025,2024-06-14,32
+2024-06-12,2024-06-16,12–16 June 2024,Essential,Lib/Nat,Two-party-preferred,2025,2024-06-14,46
+2024-06-12,2024-06-16,12–16 June 2024,Essential,ONP,First preference,2025,2024-06-14,8
+2024-06-12,2024-06-16,12–16 June 2024,Essential,Oth,First preference,2025,2024-06-14,9
+2024-06-12,2024-06-16,12–16 June 2024,Essential,UAP,First preference,2025,2024-06-14,1
+2024-06-12,2024-06-16,12–16 June 2024,Essential,Und,First preference,2025,2024-06-14,6
+2024-06-14,2024-06-16,14–16 June 2024,Freshwater Strategy,ALP,First preference,2025,2024-06-15,32
+2024-06-14,2024-06-16,14–16 June 2024,Freshwater Strategy,ALP,Two-party-preferred,2025,2024-06-15,50
+2024-06-14,2024-06-16,14–16 June 2024,Freshwater Strategy,Grn,First preference,2025,2024-06-15,13
+2024-06-14,2024-06-16,14–16 June 2024,Freshwater Strategy,Lib/Nat,First preference,2025,2024-06-15,40
+2024-06-14,2024-06-16,14–16 June 2024,Freshwater Strategy,Lib/Nat,Two-party-preferred,2025,2024-06-15,50
+2024-06-14,2024-06-16,14–16 June 2024,Freshwater Strategy,Oth,First preference,2025,2024-06-15,15
+2024-06-17,2024-06-23,17–23 June 2024,Roy Morgan,ALP,First preference,2025,2024-06-20,31.5
+2024-06-17,2024-06-23,17–23 June 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-06-20,51
+2024-06-17,2024-06-23,17–23 June 2024,Roy Morgan,Grn,First preference,2025,2024-06-20,13
+2024-06-17,2024-06-23,17–23 June 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-06-20,37
+2024-06-17,2024-06-23,17–23 June 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-06-20,49
+2024-06-17,2024-06-23,17–23 June 2024,Roy Morgan,ONP,First preference,2025,2024-06-20,6
+2024-06-17,2024-06-23,17–23 June 2024,Roy Morgan,Oth,First preference,2025,2024-06-20,12.5
+2024-06-24,2024-06-28,24–28 June 2024,Newspoll,ALP,First preference,2025,2024-06-26,32
+2024-06-24,2024-06-28,24–28 June 2024,Newspoll,ALP,Two-party-preferred,2025,2024-06-26,51
+2024-06-24,2024-06-28,24–28 June 2024,Newspoll,Grn,First preference,2025,2024-06-26,13
+2024-06-24,2024-06-28,24–28 June 2024,Newspoll,Lib/Nat,First preference,2025,2024-06-26,36
+2024-06-24,2024-06-28,24–28 June 2024,Newspoll,Lib/Nat,Two-party-preferred,2025,2024-06-26,49
+2024-06-24,2024-06-28,24–28 June 2024,Newspoll,ONP,First preference,2025,2024-06-26,7
+2024-06-24,2024-06-28,24–28 June 2024,Newspoll,Oth,First preference,2025,2024-06-26,12
+2024-06-24,2024-06-30,24–30 June 2024,Roy Morgan,ALP,First preference,2025,2024-06-27,31.5
+2024-06-24,2024-06-30,24–30 June 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-06-27,51
+2024-06-24,2024-06-30,24–30 June 2024,Roy Morgan,Grn,First preference,2025,2024-06-27,13
+2024-06-24,2024-06-30,24–30 June 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-06-27,36.5
+2024-06-24,2024-06-30,24–30 June 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-06-27,49
+2024-06-24,2024-06-30,24–30 June 2024,Roy Morgan,ONP,First preference,2025,2024-06-27,4.5
+2024-06-24,2024-06-30,24–30 June 2024,Roy Morgan,Oth,First preference,2025,2024-06-27,14.5
+2024-06-26,2024-06-30,26–30 June 2024,Essential,ALP,First preference,2025,2024-06-28,30
+2024-06-26,2024-06-30,26–30 June 2024,Essential,ALP,Two-party-preferred,2025,2024-06-28,46
+2024-06-26,2024-06-30,26–30 June 2024,Essential,Grn,First preference,2025,2024-06-28,12
+2024-06-26,2024-06-30,26–30 June 2024,Essential,Lib/Nat,First preference,2025,2024-06-28,33
+2024-06-26,2024-06-30,26–30 June 2024,Essential,Lib/Nat,Two-party-preferred,2025,2024-06-28,47
+2024-06-26,2024-06-30,26–30 June 2024,Essential,ONP,First preference,2025,2024-06-28,7
+2024-06-26,2024-06-30,26–30 June 2024,Essential,Oth,First preference,2025,2024-06-28,10
+2024-06-26,2024-06-30,26–30 June 2024,Essential,UAP,First preference,2025,2024-06-28,1
+2024-06-26,2024-06-30,26–30 June 2024,Essential,Und,First preference,2025,2024-06-28,7
+2024-07-01,2024-07-07,1–7 July 2024,Roy Morgan,ALP,First preference,2025,2024-07-04,28.5
+2024-07-01,2024-07-07,1–7 July 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-07-04,48
+2024-07-01,2024-07-07,1–7 July 2024,Roy Morgan,Grn,First preference,2025,2024-07-04,13.5
+2024-07-01,2024-07-07,1–7 July 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-07-04,39.5
+2024-07-01,2024-07-07,1–7 July 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-07-04,52
+2024-07-01,2024-07-07,1–7 July 2024,Roy Morgan,ONP,First preference,2025,2024-07-04,5
+2024-07-01,2024-07-07,1–7 July 2024,Roy Morgan,Oth,First preference,2025,2024-07-04,13.5
+2024-07-08,2024-07-14,8–14 July 2024,Roy Morgan,ALP,First preference,2025,2024-07-11,31
+2024-07-08,2024-07-14,8–14 July 2024,Roy Morgan,ALP,Two-party-preferred,2025,2024-07-11,49.5
+2024-07-08,2024-07-14,8–14 July 2024,Roy Morgan,Grn,First preference,2025,2024-07-11,12.5
+2024-07-08,2024-07-14,8–14 July 2024,Roy Morgan,Lib/Nat,First preference,2025,2024-07-11,37.5
+2024-07-08,2024-07-14,8–14 July 2024,Roy Morgan,Lib/Nat,Two-party-preferred,2025,2024-07-11,50.5
+2024-07-08,2024-07-14,8–14 July 2024,Roy Morgan,ONP,First preference,2025,2024-07-11,5
+2024-07-08,2024-07-14,8–14 July 2024,Roy Morgan,Oth,First preference,2025,2024-07-11,14
+2024-07-10,2024-07-13,10–13 July 2024,Resolve Strategic,ALP,First preference,2025,2024-07-11,28
+2024-07-10,2024-07-13,10–13 July 2024,Resolve Strategic,ALP,Two-party-preferred,2025,2024-07-11,50
+2024-07-10,2024-07-13,10–13 July 2024,Resolve Strategic,Grn,First preference,2025,2024-07-11,13
+2024-07-10,2024-07-13,10–13 July 2024,Resolve Strategic,Lib/Nat,First preference,2025,2024-07-11,38
+2024-07-10,2024-07-13,10–13 July 2024,Resolve Strategic,Lib/Nat,Two-party-preferred,2025,2024-07-11,50
+2024-07-10,2024-07-13,10–13 July 2024,Resolve Strategic,ONP,First preference,2025,2024-07-11,6
+2024-07-10,2024-07-13,10–13 July 2024,Resolve Strategic,Oth,First preference,2025,2024-07-11,13
+2024-07-10,2024-07-13,10–13 July 2024,Resolve Strategic,UAP,First preference,2025,2024-07-11,1
+2024-07-10,2024-07-14,10–14 July 2024,Essential,ALP,First preference,2025,2024-07-12,29
+2024-07-10,2024-07-14,10–14 July 2024,Essential,ALP,Two-party-preferred,2025,2024-07-12,46
+2024-07-10,2024-07-14,10–14 July 2024,Essential,Grn,First preference,2025,2024-07-12,13
+2024-07-10,2024-07-14,10–14 July 2024,Essential,Lib/Nat,First preference,2025,2024-07-12,33
+2024-07-10,2024-07-14,10–14 July 2024,Essential,Lib/Nat,Two-party-preferred,2025,2024-07-12,48
+2024-07-10,2024-07-14,10–14 July 2024,Essential,ONP,First preference,2025,2024-07-12,8
+2024-07-10,2024-07-14,10–14 July 2024,Essential,Oth,First preference,2025,2024-07-12,9
+2024-07-10,2024-07-14,10–14 July 2024,Essential,UAP,First preference,2025,2024-07-12,3
+2024-07-10,2024-07-14,10–14 July 2024,Essential,Und,First preference,2025,2024-07-12,6
