@@ -14,7 +14,7 @@ names <- c("seat", "state", "member", "incumbent", "margin")
 names(gov_seats) <- names(opp_seats) <- names
 
 
-new_pendulum_2022 <- bind_rows(gov_seats, opp_seats) |> 
+pendulum_2022 <- bind_rows(gov_seats, opp_seats) |> 
   as_tibble() |> 
   slice(-(1:2)) |>
   mutate(margin = suppressWarnings(as.numeric(margin))) |> 
@@ -31,4 +31,7 @@ new_pendulum_2022 <- bind_rows(gov_seats, opp_seats) |>
 
 
 
-save(new_pendulum_2022, file = "pkg/data/oz_pendulum_2022.rda")
+save(pendulum_2022, file = "pkg/data/oz_pendulum_2022.rda")
+
+
+rm(gov_seats, opp_seats, page, page_data)

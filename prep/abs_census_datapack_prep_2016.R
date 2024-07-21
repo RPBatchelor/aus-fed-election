@@ -172,6 +172,5 @@ div_census_2016 <- d1 |>
 
 save(div_census_2016, file = "pkg/data/div_census_2016.rda")
 
+rm(d1, d2, d3, d4, d5, d6, d7, url_2016, file_location, raw_data, config, census_2016)
 
-
-url_2021 <- "https://www.abs.gov.au/census/find-census-data/datapacks/download/2021_GCP_CED_for_AUS_short-header.zip"

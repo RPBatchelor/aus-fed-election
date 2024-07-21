@@ -13,7 +13,7 @@ names <- c("seat", "member", "incumbent", "margin")
 names(gov_seats) <- names(opp_seats) <- names
 
 
-new_pendulum_2019 <- bind_rows(gov_seats, opp_seats) |> 
+oz_pendulum_2019 <- bind_rows(gov_seats, opp_seats) |> 
   as_tibble() |> 
   slice(-(1:3)) |> 
   filter(str_detect(seat, "\\w* \\(\\w{1,3}\\)"),
@@ -29,11 +29,14 @@ new_pendulum_2019 <- bind_rows(gov_seats, opp_seats) |>
   mutate(party_against = case_when(incumbent == "ALP" ~ "LNP",
                                    incumbent %in% c("LIB", "NAT", "LNP") ~ "ALP",
                                    TRUE ~ str_squish(str_replace(remarks, "[v\\+]", "")))) |> 
-  mutate(margin = as.numeric(margin) - 50)
+  mutate(margin = as.numeric(margin) - 50) |> 
+  rename(division = seat)
   
 
-save(new_pendulum_2019, file = "pkg/data/oz_pendulum_2019.rda")
+save(oz_pendulum_2019, file = "pkg/data/oz_pendulum_2019.rda")
 
+
+rm(gov_seats, opp_seats, page, page_data)
 
 
 # Original from Peter Ellis

@@ -175,3 +175,7 @@ save(div_census_2021, file = "pkg/data/div_census_2021.rda")
 
 
 
+rm(d1, d2, d3, d4, d5, d6, d7, url_2021, file_location, raw_data, census_2021)
+
+
+

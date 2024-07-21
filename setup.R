@@ -60,8 +60,7 @@ election_dates_and_results <- tibble(
                       "Lib/Nat",
                       "Lib/Nat",
                       "Lib/Nat",
-                      "ALP")
-)
+                      "ALP"))
 
 
 

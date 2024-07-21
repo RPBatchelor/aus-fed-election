@@ -1,13 +1,20 @@
-load("output/model_2pp_2019051801014.rdata")
+load("output/model_2pp.rdata")
+
+the_caption <- "Source: analysis by Rbatchelor with polling data on Wikipedia; last updated [DATE]"
+
 
 #-------------------------House effects-------------------
 
 # Polling firms
 
 d <- as.data.frame(extract(model_2pp, "d")$d)
-names(d) <- all_firms
+# names(d) <- all_firms
+
 pd <- d %>%
-  gather(firm, overestimate) %>%
+  gather(firm_idx, overestimate) |> 
+  mutate(firm_idx = as.numeric(str_replace_all(firm_idx, "V", ""))) |> 
+  left_join(all_firms_index, by = "firm_idx") |> 
+  # gather(firm, overestimate) %>%
   mutate(firm = fct_reorder(firm, overestimate)) %>%
   ggplot(aes(x = overestimate, colour = firm, fill = firm)) +
   #  facet_wrap(~firm) +
@@ -60,7 +67,8 @@ p <- mod_results %>%
   theme(panel.grid.minor = element_blank()) +
   ggtitle(ci,
           paste0("Australian two-party-preferred federal voting intention to ", format(next_election, format = "%d %B %Y")))
-  
+
+p  
 svglite("output/latest-model-results.svg", 8, 5)
 print(p)
 dev.off()
@@ -170,6 +178,7 @@ divs <- all_divs_sims %>%
   mutate(winner = fct_reorder(winner, -prop))
   
 all_states <- unique(divs$state)
+
 draw_state_heatmap <- function(the_state = "NSW",
                                height = 9){
   
